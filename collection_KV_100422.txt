@@ -1,0 +1,1121 @@
+collection
+
+1, Abrupt Decay, PLIST, NearMint, 3.4, Normal, English, 2022-04-07
+1, Abrupt Decay, RTR, NearMint, 3.73, Normal, English, 2022-04-05
+1, Abzan Beastmaster, F15, NearMint, 0.25, Foil, English, 2022-04-08
+1, Acidic Slime, M10, NearMint, 0.14, Normal, English, 2022-04-07
+1, Advanced Stitchwing, EMN, NearMint, 0.08, Normal, English, 2022-04-09
+1, Aetherflux Reservoir, KLD, Excellent, 16.82, Normal, English, 2022-04-04
+1, Aethergeode Miner, AER, NearMint, 0.14, Normal, English, 2022-04-08
+1, Aethersquall Ancient, PKLD, NearMint, 0.9, Foil, English, 2022-04-08
+1, Aetherworks Marvel, KLD, NearMint, 1.29, Normal, English, 2022-04-07
+1, Agent of Treachery, M20, NearMint, 8.04, Normal, English, 2022-04-04
+1, Aggressive Mining, M15, NearMint, 0.25, Normal, Italian, 2022-04-04
+1, Akroan Horse, C16, NearMint, 0.27, Normal, English, 2022-04-04
+1, Akroan Horse, THS, NearMint, 0.26, Normal, French, 2022-04-05
+1, Alhammarret's Archive, ORI, NearMint, 5.83, Normal, Spanish, 2022-04-04
+1, Altar of Dementia, MH1, NearMint, 8.45, Normal, English, 2022-04-07
+1, Anafenza, Kin-Tree Spirit, DTK, NearMint, 1.46, Normal, English, 2022-04-07
+1, Ancient Den, HOP, NearMint, 1.07, Normal, English, 2022-04-07
+1, Ancient Greenwarden, ZNR, NearMint, 11.14, Foil, English, 2022-04-07
+1, Ancient Grudge, TSP, NearMint, 0.23, Normal, English, 2022-04-08
+1, Animate Dead, FWB, Good, 0.0, Normal, French, 2022-04-06
+1, Animate Dead, FWB, NearMint, 0.0, Normal, French, 2022-04-07
+1, Anointer Priest, AKH, NearMint, 0.12, Normal, English, 2022-04-07
+1, Approach of the Second Sun, AKH, Good, 1.14, Normal, English, 2022-04-04
+1, Arashin Foremost, DTK, NearMint, 0.27, Normal, English, 2022-04-08
+1, Arc Lightning, USG, NearMint, 0.15, Normal, English, 2022-04-09
+1, Arcane Denial, ALL, LightPlayed, 1.36, Normal, Portuguese, 2022-04-04
+1, Arcane Signet, ZNC, NearMint, 1.3, Normal, English, 2022-04-07
+1, Arcbound Ravager, WC04, NearMint, 8.22, Normal, English, 2022-04-08
+1, Archfiend of Ifnir, PAKH, NearMint, 1.53, Foil, English, 2022-04-08
+1, Architect of the Untamed, KLD, NearMint, 0.12, Normal, English, 2022-04-08
+1, Arid Mesa, ZEN, NearMint, 17.84, Normal, English, 2022-04-04
+1, As Foretold, AKH, NearMint, 7.73, Normal, English, 2022-04-07
+1, Ash Barrens, A25, NearMint, 1.0, Normal, English, 2022-04-07
+1, Ash Barrens, C16, NearMint, 0.8, Normal, English, 2022-04-08
+1, Ash Barrens, C19, NearMint, 0.64, Normal, English, 2022-04-07
+1, Ashen Rider, THS, NearMint, 0.6, Normal, Japanese, 2022-04-08
+1, Assassin's Trophy, GRN, NearMint, 13.36, Normal, English, 2022-04-07
+1, Atarka, World Render, C17, NearMint, 0.25, Normal, English, 2022-04-08
+1, Atris, Oracle of Half-Truths, PTHB, NearMint, 0.37, Foil, French, 2022-04-07
+1, Authority of the Consuls, KLD, Excellent, 10.96, Foil, English, 2022-04-04
+1, Authority of the Consuls, KLD, NearMint, 11.15, Foil, English, 2022-04-06
+1, Autumn Willow, HML, LightPlayed, 2.36, Normal, French, 2022-04-04
+1, Avatar of Fury, PCY, NearMint, 0.58, Normal, English, 2022-04-04
+1, Avatar of Will, PCY, NearMint, 0.51, Normal, English, 2022-04-04
+1, Avatar of Woe, CM2, NearMint, 2.44, Normal, English, 2022-04-06
+1, Avatar of Woe, PCY, NearMint, 4.48, Normal, French, 2022-04-04
+1, Aven Mindcensor, PAKH, NearMint, 1.99, Normal, English, 2022-04-04
+1, Avenger of Zendikar, CMR, NearMint, 5.58, Normal, English, 2022-04-07
+1, Ayula's Influence, MH1, NearMint, 0.23, Normal, English, 2022-04-05
+1, Azorius Chancery, AFC, NearMint, 0.11, Normal, English, 2022-04-07
+1, Azorius Chancery, DDI, NearMint, 0.13, Normal, English, 2022-04-07
+1, Azorius Chancery, IMA, NearMint, 0.16, Normal, English, 2022-04-07
+1, Azusa, Lost but Seeking, A25, NearMint, 8.52, Normal, Japanese, 2022-04-07
+1, Bad Ass, UNH, NearMint, 0.18, Normal, English, 2022-04-09
+1, Bag of Holding, M20, NearMint, 0.93, Foil, Italian, 2022-04-07
+1, Baird, Steward of Argive, DOM, NearMint, 0.4, Normal, Italian, 2022-04-04
+1, Balance, 4ED, NearMint, 1.89, Normal, English, 2022-04-04
+1, Baral, Chief of Compliance, AER, NearMint, 5.27, Normal, English, 2022-04-07
+1, Barren Moor, C18, NearMint, 0.21, Normal, English, 2022-04-07
+1, Barren Moor, C19, NearMint, 0.21, Normal, English, 2022-04-07
+1, Barren Moor, C21, NearMint, 0.19, Normal, English, 2022-04-07
+1, Battle at the Bridge, AER, NearMint, 0.25, Normal, English, 2022-04-08
+1, Bazaar Trader, WWK, NearMint, 3.45, Normal, Italian, 2022-04-04
+1, Beast Within, DDL, NearMint, 1.21, Normal, English, 2022-04-07
+1, Beseech the Queen, PLIST, NearMint, 2.88, Normal, English, 2022-04-07
+1, Blim, Comedic Genius, CMR, NearMint, 0.13, Normal, English, 2022-04-07
+1, Blizzard Specter, IMA, NearMint, 0.23, Normal, English, 2022-04-07
+1, Blood Crypt, RTR, NearMint, 17.15, Normal, English, 2022-04-05
+1, Blood-Chin Fanatic, DTK, NearMint, 0.17, Normal, English, 2022-04-08
+1, Bloodchief Ascension, ZEN, NearMint, 24.6, Normal, Japanese, 2022-04-07
+1, Bloodstained Mire, KTK, NearMint, 41.08, Normal, English, 2022-04-07
+1, Bogardan Dragonheart, MH1, NearMint, 0.03, Normal, English, 2022-04-08
+1, Bojuka Bog, C20, NearMint, 1.14, Normal, English, 2022-04-07
+1, Bomat Courier, KLD, NearMint, 3.15, Foil, English, 2022-04-08
+1, Bone Picker, JMP, NearMint, 0.06, Normal, English, 2022-04-09
+1, Bone Saw, OGW, NearMint, 0.12, Normal, English, 2022-04-09
+1, Boomerang, 6ED, NearMint, 0.15, Normal, English, 2022-04-09
+1, Boros Charm, GTC, NearMint, 2.06, Normal, Italian, 2022-04-04
+1, Boros Garrison, C15, NearMint, 0.14, Normal, English, 2022-04-08
+1, Boros Garrison, ZNC, NearMint, 0.11, Normal, English, 2022-04-07
+1, Bottomless Pit, STH, NearMint, 2.76, Normal, Italian, 2022-04-07
+1, Boundless Realms, M13, NearMint, 3.1, Normal, English, 2022-04-05
+1, Bounty of the Hunt, ALL, NearMint, 0.22, Normal, English, 2022-04-05
+1, Bounty of the Luxa, C19, NearMint, 0.08, Normal, English, 2022-04-08
+1, Braids, Conjurer Adept, 2XM, NearMint, 1.27, Normal, English, 2022-04-07
+1, Brainstorm, ICE, NearMint, 0.74, Normal, French, 2022-04-07
+1, Brawn, CM2, NearMint, 0.42, Normal, English, 2022-04-07
+1, Breakthrough, TOR, NearMint, 0.31, Normal, English, 2022-04-09
+1, Bronzehide Lion, PTHB, NearMint, 0.49, Normal, English, 2022-04-07
+1, Bronzehide Lion, THB, NearMint, 0.46, Normal, English, 2022-04-07
+1, Buried Alive, CM2, NearMint, 5.96, Normal, English, 2022-04-09
+1, Buried Alive, ODY, NearMint, 5.82, Normal, English, 2022-04-09
+1, Burnished Hart, C21, NearMint, 0.23, Normal, English, 2022-04-07
+1, Butcher of Malakir, C17, NearMint, 0.27, Normal, English, 2022-04-06
+1, Cabal Coffers, MH2, NearMint, 21.32, Normal, Japanese, 2022-04-07
+1, Capsize, TMP, NearMint, 1.04, Normal, German, 2022-04-07
+1, Captured by the Consulate, KLD, NearMint, 0.11, Normal, English, 2022-04-08
+1, Careful Study, ODY, Played, 1.7, Normal, German, 2022-04-07
+1, Carnival Hellsteed, RTR, NearMint, 0.11, Normal, English, 2022-04-08
+1, Carrion Feeder, MH1, NearMint, 0.94, Normal, English, 2022-04-07
+1, Cartouche of Solidarity, AKH, NearMint, 0.23, Normal, English, 2022-04-07
+1, Cataclysmic Gearhulk, NEC, NearMint, 0.25, Normal, English, 2022-04-08
+1, Cathartic Reunion, MB1, NearMint, 0.2, Normal, English, 2022-04-07
+1, Celestial Kirin, FMB1, NearMint, 0.6, Foil, English, 2022-04-08
+1, Chainer's Edict, UMA, NearMint, 4.76, Normal, English, 2022-04-09
+1, Chancellor of the Annex, MB1, NearMint, 2.03, Normal, English, 2022-04-07
+1, Charcoal Diamond, 7ED, NearMint, 0.73, Normal, English, 2022-04-07
+1, Chatter of the Squirrel, 2XM, NearMint, 0.21, Normal, English, 2022-04-07
+1, Chief of the Foundry, KLD, NearMint, 0.12, Normal, English, 2022-04-10
+1, Cho-Manno, Revolutionary, MMQ, Excellent, 0.52, Normal, French, 2022-04-04
+1, Chronatog, VIS, LightPlayed, 3.45, Normal, English, 2022-04-04
+1, City of Brass, 8ED, NearMint, 20.46, Normal, English, 2022-04-07
+1, City of Brass, CHR, NearMint, 22.11, Normal, English, 2022-04-07
+1, City of Traitors, EXO, Excellent, 267.46, Normal, English, 2022-04-07
+1, Clearwater Pathway, ZNR, NearMint, 6.58, Foil, French, 2022-04-07
+1, Cloud of Faeries, ULG, Good, 1.79, Normal, English, 2022-04-09
+1, Cloudpost, MRD, NearMint, 0.69, Normal, English, 2022-04-07
+1, Cloudpost, WC04, NearMint, 2.8, Normal, English, 2022-04-07
+1, Cloudshredder Sliver, MH1, NearMint, 2.38, Normal, English, 2022-04-06
+1, Cloudshredder Sliver, TSR, NearMint, 2.18, Normal, English, 2022-04-05
+1, Coastal Piracy, 8ED, NearMint, 5.48, Normal, Japanese, 2022-04-07
+1, Collective Blessing, RTR, NearMint, 0.56, Normal, French, 2022-04-05
+1, Collective Brutality, EMN, NearMint, 3.77, Normal, English, 2022-04-06
+1, Combustible Gearhulk, C21, NearMint, 0.77, Normal, English, 2022-04-07
+1, Command Tower, ZNC, NearMint, 0.0, Foil, English, 2022-04-07
+1, Commit // Memory, AKH, NearMint, 1.35, Normal, English, 2022-04-08
+1, Commune with the Gods, EMA, NearMint, 0.18, Normal, English, 2022-04-08
+1, Compulsive Research, RAV, NearMint, 0.12, Normal, English, 2022-04-09
+1, Conflagrate, TSP, NearMint, 0.28, Normal, French, 2022-04-09
+1, Conflagrate, TSR, NearMint, 0.09, Normal, English, 2022-04-07
+1, Consult the Necrosages, RAV, NearMint, 0.52, Foil, English, 2022-04-07
+1, Consuming Aberration, GTC, NearMint, 1.12, Foil, English, 2022-04-05
+1, Corpseweft, DTK, NearMint, 0.16, Normal, English, 2022-04-08
+1, Corrupted Crossroads, POGW, NearMint, 0.57, Foil, English, 2022-04-08
+1, Counterflux, RTR, NearMint, 0.73, Normal, English, 2022-04-04
+1, Courser of Kruphix, TSR, NearMint, 3.41, Normal, French, 2022-04-07
+1, Court Hussar, DIS, NearMint, 0.19, Normal, English, 2022-04-09
+1, Cowardice, 9ED, NearMint, 0.51, Normal, English, 2022-04-07
+1, Crab Token, TMH2, NearMint, 0.02, Normal, English, 2022-04-04
+1, Cranial Plating, 2XM, NearMint, 0.48, Normal, English, 2022-04-08
+1, Cranial Plating, HOP, NearMint, 0.52, Normal, English, 2022-04-08
+1, Crater Elemental, PDTK, NearMint, 0.49, Foil, English, 2022-04-08
+1, Crater's Claws, KTK, NearMint, 0.16, Normal, English, 2022-04-08
+1, Creeping Mold, MB1, NearMint, 0.09, Normal, English, 2022-04-07
+1, Crop Rotation, ULG, NearMint, 1.62, Normal, French, 2022-04-07
+1, Crucible of Worlds, M19, NearMint, 40.77, Normal, French, 2022-04-07
+1, Crumbling Vestige, OGW, NearMint, 0.2, Normal, English, 2022-04-07
+1, Crux of Fate, FRF, NearMint, 2.28, Normal, Italian, 2022-04-04
+1, Crystal Vein, MIR, NearMint, 2.18, Normal, English, 2022-04-07
+1, Cultivate, MB1, NearMint, 0.52, Normal, English, 2022-04-07
+1, Cultivator of Blades, KHC, NearMint, 0.16, Normal, English, 2022-04-08
+1, Cultivator's Caravan, NEC, NearMint, 0.15, Normal, English, 2022-04-08
+1, Cultivator's Caravan, PKLD, NearMint, 2.08, Foil, English, 2022-04-05
+1, Cunning Lethemancer, ALA, NearMint, 3.22, Normal, Italian, 2022-04-07
+1, Curiosity, ISD, NearMint, 0.34, Normal, English, 2022-04-04
+1, Curse of Echoes, DKA, NearMint, 0.67, Normal, English, 2022-04-06
+1, Cursed Rack, 4ED, NearMint, 0.16, Normal, French, 2022-04-07
+1, Cut // Ribbons, PAKH, NearMint, 2.28, Foil, English, 2022-04-08
+1, Cyclonic Rift, RTR, NearMint, 30.66, Normal, Japanese, 2022-04-07
+1, Dack Fayden, EMA, Excellent, 18.99, Normal, English, 2022-04-04
+1, Damia, Sage of Stone, CM2, NearMint, 7.37, Foil, English, 2022-04-07
+1, Damnation, PLC, Good, 29.7, Normal, Italian, 2022-04-04
+1, Dark Deal, FRF, NearMint, 2.0, Normal, English, 2022-04-07
+1, Dark Hatchling, USG, NearMint, 0.31, Normal, English, 2022-04-08
+1, Dark Petition, ORI, NearMint, 3.95, Normal, English, 2022-04-07
+1, Dark Ritual, ICE, NearMint, 0.61, Normal, English, 2022-04-07
+1, Darksteel Citadel, DDU, NearMint, 0.52, Normal, English, 2022-04-08
+1, Darkwater Catacombs, C20, NearMint, 0.3, Normal, English, 2022-04-07
+1, Davriel, Rogue Shadowmage, WAR, NearMint, 17.64, Foil, English, 2022-04-07
+1, Daxos of Meletis, THS, NearMint, 0.23, Normal, Italian, 2022-04-04
+1, Deadlock Trap, KLD, NearMint, 0.13, Normal, English, 2022-04-05
+1, Deadly Tempest, C15, NearMint, 0.44, Normal, English, 2022-04-06
+1, Deafening Silence, ELD, NearMint, 2.21, Normal, English, 2022-04-08
+1, Deal Damage, UNH, NearMint, 0.32, Normal, English, 2022-04-09
+1, Death Cloud, DST, NearMint, 6.75, Normal, Spanish, 2022-04-06
+1, Death Cloud, MMA, NearMint, 6.99, Normal, English, 2022-04-06
+1, Death Wind, DTK, NearMint, 0.09, Normal, English, 2022-04-09
+1, Defiant Strike, WAR, NearMint, 0.04, Normal, English, 2022-04-07
+1, Defile, MH1, NearMint, 0.34, Normal, English, 2022-04-08
+1, Demon of Dark Schemes, KLD, NearMint, 1.52, Normal, English, 2022-04-08
+1, Demonic Tutor, 3ED, NearMint, 42.21, Normal, English, 2022-04-07
+1, Destructive Revelry, THS, NearMint, 0.21, Normal, English, 2022-04-07
+1, Detention Sphere, RTR, Good, 0.86, Normal, Italian, 2022-04-04
+1, Devastation Tide, AVR, NearMint, 1.75, Normal, French, 2022-04-07
+1, Diabolic Edict, A25, NearMint, 0.1, Normal, English, 2022-04-07
+1, Diabolic Intent, BBD, NearMint, 34.93, Normal, English, 2022-04-07
+1, Diabolic Tutor, KLD, NearMint, 0.79, Normal, English, 2022-04-09
+1, Dig Through Time, KTK, NearMint, 0.78, Normal, Japanese, 2022-04-04
+1, Dimir Aqueduct, IMA, NearMint, 0.25, Normal, English, 2022-04-07
+1, Dimir Aqueduct, RAV, NearMint, 0.24, Normal, English, 2022-04-07
+1, Dimir Aqueduct, ZNC, NearMint, 0.23, Normal, English, 2022-04-07
+1, Dimir Cluestone, DGM, NearMint, 0.14, Normal, English, 2022-04-07
+1, Dimir Locket, ZNC, NearMint, 0.15, Normal, English, 2022-04-07
+1, Dimir Machinations, RAV, NearMint, 5.67, Foil, French, 2022-04-09
+1, Dimir Signet, CMD, NearMint, 5.0, Normal, English, 2022-04-10
+1, Dimir Signet, RAV, NearMint, 4.4, Normal, English, 2022-04-10
+1, Disallow, PAER, NearMint, 5.7, Normal, English, 2022-04-08
+1, Disciple of the Vault, MRD, NearMint, 13.37, Foil, French, 2022-04-07
+1, Dismal Backwater, C17, NearMint, 0.26, Normal, English, 2022-04-07
+1, Dissipation Field, SOM, NearMint, 1.99, Normal, English, 2022-04-07
+1, Dissolve, F14, NearMint, 0.62, Foil, English, 2022-04-08
+1, Donate, UDS, LightPlayed, 9.29, Normal, Italian, 2022-04-04
+1, Doom Blade, P11, NearMint, 4.08, Normal, English, 2022-04-09
+1, Doomed Dissenter, AKH, NearMint, 0.07, Normal, English, 2022-04-09
+1, Dovin Baan, KLD, NearMint, 0.94, Normal, English, 2022-04-05
+1, Dovin's Veto, WAR, NearMint, 3.79, Normal, Italian, 2022-04-04
+1, Dragonlord's Prerogative, DTK, NearMint, 0.23, Normal, English, 2022-04-06
+1, Drana's Chosen, OGW, NearMint, 0.12, Normal, English, 2022-04-08
+1, Dread Presence, PM20, NearMint, 2.49, Normal, English, 2022-04-07
+1, Dread Return, TSP, NearMint, 0.58, Normal, English, 2022-04-07
+1, Dreadwaters, MB1, NearMint, 0.14, Normal, English, 2022-04-08
+1, Dream Trawler, PTHB, NearMint, 0.32, Normal, French, 2022-04-07
+1, Dreamborn Muse, CM2, NearMint, 3.58, Normal, English, 2022-04-08
+1, Drowned Catacomb, M11, NearMint, 7.29, Normal, Italian, 2022-04-07
+1, Druid's Call, ODY, NearMint, 7.91, Normal, Italian, 2022-04-07
+1, Dryad Arbor, FUT, NearMint, 3.73, Normal, English, 2022-04-07
+1, Duh, UNH, NearMint, 0.25, Normal, English, 2022-04-09
+1, Dust Bowl, MMQ, NearMint, 16.16, Normal, English, 2022-04-07
+1, Edge of Autumn, FUT, NearMint, 0.24, Normal, English, 2022-04-07
+1, Eerie Interlude, PSOI, NearMint, 3.31, Normal, English, 2022-04-06
+1, Eerie Interlude, SOI, NearMint, 1.66, Normal, English, 2022-04-08
+1, Electrickery, RTR, NearMint, 0.22, Normal, English, 2022-04-08
+1, Electrolyze, IMA, NearMint, 0.17, Normal, English, 2022-04-07
+1, Elephant Token, TMM3, NearMint, 0.0, Foil, English, 2022-04-07
+1, Eliminate, M21, NearMint, 0.28, Normal, English, 2022-04-07
+1, Embargo, MMQ, Good, 2.28, Normal, English, 2022-04-04
+1, Emberwilde Djinn, MIR, NearMint, 0.99, Normal, French, 2022-04-04
+1, Emcee, UND, NearMint, 0.08, Normal, English, 2022-04-07
+1, Empty the Warrens, TSP, NearMint, 0.27, Normal, English, 2022-04-09
+1, Emrakul, the Promised End, EMN, NearMint, 43.15, Normal, English, 2022-04-07
+1, Enlightened Tutor, 6ED, Excellent, 40.14, Normal, Japanese, 2022-04-04
+1, Entomb, UMA, Excellent, 34.75, Normal, English, 2022-04-04
+1, Equilibrium, EXO, NearMint, 6.77, Normal, English, 2022-04-07
+1, Erayo's Essence, SOK, NearMint, 8.1, Normal, French, 2022-04-06
+1, Erayo, Soratami Ascendant, SOK, NearMint, 8.1, Normal, French, 2022-04-06
+1, Etched Champion, SOM, NearMint, 3.55, Normal, French, 2022-04-04
+1, Eternal Witness, DDJ, NearMint, 3.6, Normal, English, 2022-04-07
+1, Ethersworn Canonist, MMA, NearMint, 8.05, Normal, English, 2022-04-07
+1, Evacuation, 8ED, NearMint, 5.04, Normal, Italian, 2022-04-07
+1, Everflowing Chalice, C14, NearMint, 0.92, Normal, English, 2022-04-04
+1, Expedition Map, ZEN, NearMint, 1.71, Normal, English, 2022-04-07
+1, Experimental Frenzy, GRN, NearMint, 0.9, Foil, English, 2022-04-07
+1, Exploration, 2XM, NearMint, 24.1, Normal, English, 2022-04-07
+1, Extractor Demon, CMD, NearMint, 0.19, Normal, English, 2022-04-08
+1, Fact or Fiction, ZNC, NearMint, 0.21, Normal, English, 2022-04-09
+1, Faerie Seer, MH1, NearMint, 0.57, Normal, English, 2022-04-09
+1, Fascist Art Director, UNH, NearMint, 0.12, Normal, English, 2022-04-07
+1, Fatal Push, 2XM, NearMint, 2.32, Normal, English, 2022-04-07
+1, Fatal Push, AER, NearMint, 2.07, Normal, English, 2022-04-06
+1, Fated Conflagration, BNG, NearMint, 0.08, Normal, French, 2022-04-06
+1, Feat of Resistance, M21, NearMint, 0.03, Normal, English, 2022-04-07
+1, Felidar Guardian, MB1, NearMint, 0.73, Normal, English, 2022-04-07
+1, Felidar Sovereign, BFZ, NearMint, 1.29, Normal, Japanese, 2022-04-04
+1, Fell Specter, M19, NearMint, 0.26, Normal, English, 2022-04-07
+1, Fetid Pools, PAKH, NearMint, 7.96, Foil, English, 2022-04-07
+1, Fiery Islet, MH1, NearMint, 10.46, Normal, English, 2022-04-07
+1, Flame-Kin Zealot, EMA, NearMint, 0.07, Normal, English, 2022-04-07
+1, Flame-Kin Zealot, RAV, NearMint, 0.1, Normal, English, 2022-04-07
+1, Flames of the Blood Hand, BOK, NearMint, 2.5, Foil, French, 2022-04-09
+1, Flash Conscription, RAV, NearMint, 0.25, Foil, English, 2022-04-09
+1, Flashfreeze, M10, NearMint, 0.04, Normal, English, 2022-04-09
+1, Flayer of the Hatebound, DKA, NearMint, 0.23, Normal, English, 2022-04-07
+1, Fleet Swallower, XLN, NearMint, 3.32, Foil, English, 2022-04-08
+1, Fling, JMP, NearMint, 0.09, Normal, English, 2022-04-08
+1, Fling, PW11, NearMint, 3.57, Foil, English, 2022-04-09
+1, Flusterstorm, MH1, NearMint, 18.71, Normal, Italian, 2022-04-04
+1, Flux, WTH, NearMint, 0.23, Normal, English, 2022-04-07
+1, Forbidden Orchard, CHK, Good, 21.69, Normal, Italian, 2022-04-04
+1, Force of Rage, MH1, NearMint, 0.11, Normal, English, 2022-04-08
+1, Force of Vigor, MH1, NearMint, 36.45, Normal, English, 2022-04-05
+1, Force of Will, ALL, LightPlayed, 105.19, Normal, English, 2022-04-04
+1, Force of Will, ALL, Played, 105.19, Normal, French, 2022-04-04
+1, Forest, PF19, NearMint, 1.17, Foil, English, 2022-04-07
+1, Forgotten Cave, MH1, NearMint, 0.09, Normal, English, 2022-04-08
+1, Form of the Dragon, 9ED, NearMint, 2.26, Foil, English, 2022-04-04
+1, Foul Renewal, DTK, NearMint, 0.15, Normal, English, 2022-04-08
+1, Foundry Inspector, NEC, NearMint, 0.12, Normal, English, 2022-04-10
+1, Framed!, UNH, NearMint, 0.11, Normal, English, 2022-04-09
+1, Freed from the Real, SOK, NearMint, 3.87, Normal, Italian, 2022-04-09
+1, Frogmite, DDF, NearMint, 0.3, Normal, English, 2022-04-10
+1, Frogmite, MM2, NearMint, 0.27, Normal, English, 2022-04-10
+1, Fulminator Mage, SHM, Good, 3.38, Normal, English, 2022-04-04
+1, Gainsay, THS, NearMint, 0.06, Normal, English, 2022-04-09
+1, Gallia of the Endless Dance, PTHB, NearMint, 0.37, Normal, French, 2022-04-07
+1, Gallows at Willow Hill, AVR, NearMint, 0.22, Normal, English, 2022-04-05
+1, Gamble, EMA, NearMint, 18.32, Normal, Simplified Chinese, 2022-04-04
+1, Garruk's Horde, W17, NearMint, 0.19, Normal, English, 2022-04-05
+1, Geier Reach Sanitarium, C19, NearMint, 0.83, Normal, English, 2022-04-07
+1, Generous Gift, CMR, Excellent, 3.36, Normal, English, 2022-04-04
+1, Geth's Grimoire, DST, NearMint, 4.11, Normal, English, 2022-04-07
+1, Ghirapur Orrery, KLD, NearMint, 0.92, Normal, English, 2022-04-05
+1, Ghostly Flicker, AVR, NearMint, 0.71, Normal, Italian, 2022-04-04
+1, Giant Cockroach, 7ED, NearMint, 10.75, Foil, English, 2022-04-09
+1, Gideon of the Trials, AKH, NearMint, 3.01, Normal, English, 2022-04-07
+1, Gideon's Intervention, AKH, NearMint, 0.16, Normal, English, 2022-04-08
+1, Gifted Aetherborn, JMP, NearMint, 0.65, Normal, English, 2022-04-09
+1, Gifts Ungiven, MM3, NearMint, 1.8, Normal, Simplified Chinese, 2022-04-04
+1, Gigantosaurus, M19, NearMint, 1.75, Normal, English, 2022-04-05
+1, Gingerbrute, ELD, NearMint, 0.29, Normal, English, 2022-04-08
+1, Gisela, Blade of Goldnight, C15, NearMint, 11.1, Normal, English, 2022-04-05
+1, Glimmervoid, MMA, NearMint, 7.94, Normal, English, 2022-04-05
+1, Glimmervoid, MRD, NearMint, 9.46, Normal, English, 2022-04-08
+1, Glory-Bound Initiate, AKH, NearMint, 0.15, Normal, English, 2022-04-08
+1, Glory-Bound Initiate, PAKH, NearMint, 0.45, Foil, English, 2022-04-08
+1, Goatnap, MH1, NearMint, 0.16, Foil, English, 2022-04-09
+1, Goblin Chariot, 9ED, NearMint, 0.26, Foil, French, 2022-04-09
+1, Goblin Electromancer, DDJ, NearMint, 0.27, Normal, English, 2022-04-07
+1, Goblin Mime, UNH, NearMint, 0.14, Normal, English, 2022-04-09
+1, Godless Shrine, RNA, NearMint, 13.39, Normal, English, 2022-04-07
+1, Golgari Rot Farm, IMA, NearMint, 2.93, Foil, English, 2022-04-07
+1, Golgari Signet, CM2, NearMint, 1.27, Normal, English, 2022-04-10
+1, Golgari Thug, DDJ, NearMint, 0.8, Normal, English, 2022-04-07
+1, Golgari Thug, RAV, NearMint, 0.84, Normal, English, 2022-04-07
+1, Grand Coliseum, ONS, NearMint, 3.61, Normal, French, 2022-04-05
+1, Grandmother Sengir, HML, NearMint, 1.04, Normal, English, 2022-04-04
+1, Grapeshot, TSP, NearMint, 0.26, Normal, English, 2022-04-09
+1, Graphic Violence, UNH, NearMint, 0.11, Normal, English, 2022-04-07
+1, Grapple with the Past, C18, NearMint, 0.21, Normal, English, 2022-04-08
+1, Grapple with the Past, MB1, NearMint, 0.23, Normal, English, 2022-04-08
+1, Grave Pact, CM2, NearMint, 32.41, Normal, English, 2022-04-07
+1, Gray Merchant of Asphodel, THS, NearMint, 0.5, Normal, French, 2022-04-07
+1, Great Furnace, C21, NearMint, 0.65, Normal, English, 2022-04-08
+1, Great Furnace, WC04, NearMint, 0.39, Normal, English, 2022-04-08
+1, Green Sun's Zenith, MBS, NearMint, 26.85, Normal, English, 2022-04-07
+1, Grenzo, Dungeon Warden, A25, NearMint, 0.42, Normal, English, 2022-04-07
+1, Grid Monitor, MRD, NearMint, 1.78, Normal, Italian, 2022-04-04
+1, Gwafa Hazid, Profiteer, CON, NearMint, 0.44, Normal, English, 2022-04-04
+1, Hall of Heliod's Generosity, MH1, NearMint, 10.83, Foil, Italian, 2022-04-04
+1, Hallowed Fountain, RNA, NearMint, 9.7, Normal, French, 2022-04-04
+1, Harmless Offering, EMN, NearMint, 0.52, Normal, Italian, 2022-04-04
+1, Harness by Force, JOU, NearMint, 0.21, Normal, English, 2022-04-08
+1, Hazduhr the Abbot, HML, NearMint, 1.01, Normal, English, 2022-04-07
+1, Heartless Act, IKO, NearMint, 0.93, Normal, English, 2022-04-07
+1, Heartless Summoning, ISD, NearMint, 3.98, Normal, English, 2022-04-07
+1, Hedonist's Trove, C19, NearMint, 0.1, Normal, English, 2022-04-08
+1, Hedron Crab, ZEN, NearMint, 6.02, Normal, English, 2022-04-07
+1, Hengegate Pathway, KHM, NearMint, 14.5, Normal, English, 2022-04-07
+1, Hero of Iroas, BNG, NearMint, 0.86, Foil, English, 2022-04-08
+1, Hero of Leina Tower, BNG, NearMint, 0.14, Normal, English, 2022-04-05
+1, Hidden Stockpile, MB1, NearMint, 0.2, Normal, English, 2022-04-07
+1, Highway Robber, 9ED, NearMint, 0.54, Foil, French, 2022-04-09
+1, Hokori, Dust Drinker, PLIST, NearMint, 4.63, Normal, French, 2022-04-07
+1, Homeward Path, J17, NearMint, 56.99, Foil, English, 2022-04-07
+1, Honored Hierarch, CP3, NearMint, 0.24, Foil, English, 2022-04-05
+1, Hooting Mandrills, KTK, NearMint, 0.64, Foil, English, 2022-04-08
+1, Horned Kavu, PLS, NearMint, 0.15, Normal, English, 2022-04-07
+1, Horror of the Broken Lands, A25, NearMint, 0.11, Normal, English, 2022-04-09
+1, Hour of Promise, HOU, NearMint, 0.72, Normal, English, 2022-04-07
+1, Howl of the Horde, KTK, NearMint, 0.19, Normal, English, 2022-04-08
+1, Howling Mine, 9ED, NearMint, 9.97, Normal, Italian, 2022-04-04
+1, Humble Defector, A25, Excellent, 0.09, Normal, English, 2022-04-04
+1, Hypnotic Specter, FBB, Excellent, 0.0, Normal, Italian, 2022-04-07
+1, Ice-Fang Coatl, RMH1, NearMint, 7.85, Foil, English, 2022-04-05
+1, Ichorid, EMA, NearMint, 0.58, Normal, English, 2022-04-06
+1, Imprisoned in the Moon, PEMN, NearMint, 7.9, Foil, French, 2022-04-04
+1, Impulse, VIS, NearMint, 0.52, Normal, French, 2022-04-07
+1, Incite Hysteria, RAV, NearMint, 0.0, Foil, English, 2022-04-09
+1, Indentured Oaf, RAV, NearMint, 0.1, Normal, English, 2022-04-09
+1, Ingenious Infiltrator, RMH1, NearMint, 2.36, Foil, English, 2022-04-07
+1, Inquisition of Kozilek, MB1, NearMint, 2.35, Normal, English, 2022-04-08
+1, Insolent Neonate, SOI, NearMint, 0.24, Normal, English, 2022-04-09
+1, Inventors' Fair, KLD, NearMint, 9.31, Normal, English, 2022-04-08
+1, Invigorate, GVL, NearMint, 0.32, Normal, English, 2022-04-07
+1, Irrigated Farmland, AKH, Good, 0.47, Normal, English, 2022-04-04
+1, Irrigated Farmland, AKH, NearMint, 0.47, Normal, English, 2022-04-05
+1, Isamaru, Hound of Konda, CHK, NearMint, 15.15, Foil, English, 2022-04-07
+1, Izzet Boilerworks, GPT, NearMint, 0.22, Normal, English, 2022-04-07
+1, Jace's Archivist, C13, NearMint, 4.13, Normal, English, 2022-04-07
+1, Jace, Wielder of Mysteries, WAR, NearMint, 7.25, Normal, Japanese, 2022-04-04
+1, Jarad's Orders, RTR, NearMint, 0.76, Normal, English, 2022-04-08
+1, Jester's Cap, 5ED, Excellent, 6.39, Normal, French, 2022-04-04
+1, Jester's Mask, ICE, LightPlayed, 7.99, Normal, English, 2022-04-04
+1, Jinxed Choker, MRD, Good, 0.6, Normal, English, 2022-04-04
+1, Jinxed Idol, M11, NearMint, 0.49, Normal, Italian, 2022-04-04
+1, Jukai Messenger, CHK, NearMint, 0.32, Foil, English, 2022-04-07
+1, Jungle Hollow, FRF, NearMint, 0.1, Normal, English, 2022-04-08
+1, Jwar Isle Refuge, ZNC, NearMint, 0.27, Normal, English, 2022-04-07
+1, Kami of the Crescent Moon, SOK, NearMint, 5.92, Normal, Italian, 2022-04-04
+1, Karn's Bastion, WAR, NearMint, 6.73, Foil, English, 2022-04-08
+1, Keeper of the Sacred Word, UNH, NearMint, 0.14, Normal, English, 2022-04-07
+1, Kethis, the Hidden Hand, M20, NearMint, 2.93, Normal, French, 2022-04-07
+1, Key to the City, C21, NearMint, 0.22, Normal, English, 2022-04-08
+1, Kill! Destroy!, UNH, NearMint, 1.04, Normal, English, 2022-04-09
+1, King of the Pride, MH1, NearMint, 0.3, Normal, English, 2022-04-07
+1, Knowledge Pool, MBS, NearMint, 4.4, Foil, English, 2022-04-04
+1, Kor Skyfisher, DDO, NearMint, 0.22, Normal, English, 2022-04-08
+1, Krosan Constrictor, TOR, NearMint, 0.37, Foil, English, 2022-04-07
+1, Krosan Tusker, F03, NearMint, 3.34, Foil, English, 2022-04-08
+1, Kukemssa Pirates, MIR, LightPlayed, 3.91, Normal, Italian, 2022-04-04
+1, Laboratory Maniac, TSR, NearMint, 4.81, Normal, Italian, 2022-04-04
+1, Land Tax, 4ED, NearMint, 34.18, Normal, German, 2022-04-04
+1, Languish, JMP, NearMint, 0.48, Normal, English, 2022-04-07
+1, Lathnu Hellion, PKLD, NearMint, 0.37, Foil, English, 2022-04-08
+1, Lavinia, Azorius Renegade, RNA, NearMint, 0.99, Normal, Italian, 2022-04-04
+1, Lazav, Dimir Mastermind, ZNC, NearMint, 0.66, Normal, English, 2022-04-07
+1, Leave No Trace, RAV, NearMint, 0.26, Normal, English, 2022-04-08
+1, Leonin Arbiter, C17, NearMint, 2.22, Normal, Italian, 2022-04-07
+1, Lhurgoyf, 8ED, NearMint, 0.41, Normal, English, 2022-04-08
+1, Library of Leng, 3ED, NearMint, 1.32, Normal, English, 2022-04-07
+1, Life from the Loam, UMA, NearMint, 15.58, Normal, English, 2022-04-05
+1, Lightning Berserker, DTK, NearMint, 0.11, Normal, English, 2022-04-09
+1, Lightning Bolt, ATH, NearMint, 5.58, Normal, English, 2022-04-08
+1, Lightning Bolt, CEI, NearMint, 129.99, Normal, English, 2022-04-08
+1, Lightning Bolt, PLIST, NearMint, 5.89, Normal, English, 2022-04-08
+1, Lightning Dragon, USG, NearMint, 8.89, Normal, English, 2022-04-07
+1, Lightning Greaves, CM2, Excellent, 7.95, Normal, English, 2022-04-04
+1, Liliana Vess, M10, NearMint, 8.6, Normal, Japanese, 2022-04-07
+1, Liliana's Caress, M11, NearMint, 5.71, Normal, Japanese, 2022-04-07
+1, Lin Sivvi, Defiant Hero, NEM, NearMint, 2.48, Normal, English, 2022-04-07
+1, Linessa, Zephyr Mage, FUT, NearMint, 0.47, Normal, English, 2022-04-08
+1, Little Girl, UNH, NearMint, 0.23, Normal, English, 2022-04-07
+1, Living Wish, JUD, NearMint, 4.12, Normal, English, 2022-04-08
+1, Lodestone Myr, MRD, NearMint, 0.29, Normal, English, 2022-04-08
+1, Lost Legacy, KLD, NearMint, 0.13, Normal, English, 2022-04-08
+1, Lotleth Troll, RTR, NearMint, 0.35, Normal, English, 2022-04-08
+1, Lotus Cobra, IMA, NearMint, 2.9, Normal, English, 2022-04-07
+1, Mad Auntie, LRW, NearMint, 0.71, Normal, English, 2022-04-07
+1, Mad Prophet, UMA, NearMint, 0.12, Foil, English, 2022-04-09
+1, Maelstrom Pulse, 2XM, NearMint, 1.42, Normal, English, 2022-04-07
+1, Magma Spray, AKH, NearMint, 0.04, Normal, English, 2022-04-08
+1, Magmatic Sinkhole, RMH1, NearMint, 0.13, Foil, English, 2022-04-08
+1, Magus of the Jar, TSP, NearMint, 2.29, Normal, English, 2022-04-06
+1, Mana Flair, UNH, NearMint, 0.12, Normal, English, 2022-04-09
+1, Mana Leak, 8ED, NearMint, 0.27, Normal, English, 2022-04-09
+1, Mana Leak, M11, NearMint, 0.24, Normal, English, 2022-04-09
+1, Master Trinketeer, KLD, NearMint, 0.27, Foil, English, 2022-04-06
+1, Master Trinketeer, PKLD, NearMint, 0.81, Foil, English, 2022-04-08
+1, Master of Etherium, ALA, Excellent, 1.29, Normal, French, 2022-04-04
+1, Master of Etherium, ALA, NearMint, 1.29, Normal, French, 2022-04-04
+1, Master of Etherium, DDF, Good, 1.26, Normal, French, 2022-04-04
+1, Master of Etherium, DDF, NearMint, 1.26, Normal, English, 2022-04-06
+1, Maulfist Doorbuster, KLD, NearMint, 0.15, Foil, English, 2022-04-09
+1, Mayhem Devil, WAR, NearMint, 2.08, Normal, English, 2022-04-07
+1, Maze of Ith, EMA, NearMint, 13.35, Normal, English, 2022-04-04
+1, Maze's End, PDGM, NearMint, 1.36, Foil, English, 2022-04-08
+1, Megrim, STH, NearMint, 0.39, Normal, French, 2022-04-07
+1, Memnite, FMB1, NearMint, 3.75, Normal, English, 2022-04-10
+1, Memnite, SOM, NearMint, 3.82, Normal, English, 2022-04-08
+1, Memory Erosion, CM2, NearMint, 2.7, Normal, English, 2022-04-08
+1, Merfolk Secretkeeper // Venture Deeper, VELD, NearMint, 0.41, Normal, English, 2022-04-09
+1, Metalworker, UDS, Good, 161.07, Normal, English, 2022-04-04
+1, Midnight Entourage, AER, NearMint, 0.09, Normal, English, 2022-04-06
+1, Mikokoro, Center of the Sea, SOK, LightPlayed, 6.27, Normal, Italian, 2022-04-04
+1, Mind Spring, M10, NearMint, 0.26, Normal, English, 2022-04-06
+1, Mind Stone, 10E, NearMint, 1.14, Normal, English, 2022-04-10
+1, Mind Stone, C14, NearMint, 0.95, Normal, English, 2022-04-07
+1, Mindreaver, BNG, NearMint, 0.12, Normal, English, 2022-04-06
+1, Mindslicer, 9ED, NearMint, 9.27, Normal, English, 2022-04-07
+1, Mirrodin Besieged, MH1, NearMint, 4.05, Normal, English, 2022-04-06
+1, Mistgate Pathway, KHM, NearMint, 14.5, Normal, English, 2022-04-07
+1, Mistveil Plains, UMA, NearMint, 1.83, Normal, English, 2022-04-04
+1, Misty Rainforest, MM3, NearMint, 24.94, Normal, English, 2022-04-05
+1, Misty Rainforest, ZEN, NearMint, 30.27, Normal, Japanese, 2022-04-07
+1, Monastery Swiftspear, KTK, NearMint, 0.79, Normal, English, 2022-04-09
+1, Moniker Mage, UNH, NearMint, 0.11, Normal, English, 2022-04-09
+1, Mortivore, 10E, NearMint, 2.09, Normal, English, 2022-04-08
+1, Mossfire Egg, ODY, NearMint, 0.24, Normal, English, 2022-04-10
+1, Mother Bear, MH1, NearMint, 0.06, Normal, English, 2022-04-07
+1, Mountain, PF19, NearMint, 0.46, Foil, English, 2022-04-04
+1, Mox Opal, MM2, NearMint, 58.9, Normal, English, 2022-04-08
+1, Muddle the Mixture, RAV, Good, 4.83, Normal, French, 2022-04-09
+1, Muddle the Mixture, RAV, NearMint, 4.79, Normal, French, 2022-04-07
+1, Mulldrifter, JVC, NearMint, 0.47, Normal, English, 2022-04-09
+1, Multiform Wonder, KLD, NearMint, 0.1, Normal, English, 2022-04-08
+1, Munitions Expert, MH1, NearMint, 0.2, Normal, English, 2022-04-07
+1, Murkwater Pathway, ZNR, NearMint, 6.58, Foil, French, 2022-04-07
+1, Muscle Sliver, TMP, NearMint, 0.75, Normal, English, 2022-04-07
+1, Mutavault, M14, NearMint, 11.19, Foil, English, 2022-04-05
+1, Mutavault, PGPX, NearMint, 8.47, Foil, English, 2022-04-07
+1, Mwonvuli Ooze, WTH, Good, 1.16, Normal, French, 2022-04-04
+1, Mystic Remora, ICE, Good, 10.66, Normal, French, 2022-04-04
+1, Nadir Kraken, THB, NearMint, 1.58, Foil, English, 2022-04-07
+1, Narset's Reversal, WAR, NearMint, 6.37, Normal, Italian, 2022-04-04
+1, Narset, Parter of Veils, WAR, NearMint, 1.39, Normal, Italian, 2022-04-04
+1, Naru Meha, Master Wizard, DOM, NearMint, 0.74, Normal, Italian, 2022-04-04
+1, Nature's Lore, 5ED, NearMint, 4.13, Normal, English, 2022-04-07
+1, Nebuchadnezzar, CHR, NearMint, 0.42, Normal, English, 2022-04-07
+1, Necrogen Mists, MRD, NearMint, 10.12, Normal, English, 2022-04-07
+1, Necropotence, ICE, Excellent, 46.1, Normal, English, 2022-04-06
+1, Negate, AER, NearMint, 0.09, Normal, English, 2022-04-09
+1, Negate, DPA, NearMint, 0.23, Normal, English, 2022-04-09
+1, Nekrataal, 9ED, NearMint, 0.22, Normal, English, 2022-04-09
+1, Nether Shadow, 4ED, NearMint, 1.25, Normal, English, 2022-04-07
+1, Nezahal, Primal Tide, RIX, NearMint, 1.42, Normal, Italian, 2022-04-04
+1, Nezumi Graverobber, CM2, NearMint, 0.57, Normal, English, 2022-04-09
+1, Nighteyes the Desecrator, CM2, NearMint, 0.57, Normal, English, 2022-04-09
+1, Nightmare, ORI, NearMint, 0.16, Normal, English, 2022-04-08
+1, Nimble Mongoose, MH1, NearMint, 0.02, Normal, English, 2022-04-08
+1, Nin, the Pain Artist, C17, NearMint, 0.48, Normal, English, 2022-04-04
+1, Nine Lives, M21, NearMint, 1.96, Normal, Italian, 2022-04-04
+1, Niv-Mizzet, Parun, GRN, NearMint, 3.25, Normal, Italian, 2022-04-04
+1, Noble Purpose, MMQ, NearMint, 0.31, Normal, English, 2022-04-06
+1, Noetic Scales, USG, NearMint, 5.79, Normal, English, 2022-04-07
+1, Noxious Gearhulk, KLD, NearMint, 1.29, Normal, English, 2022-04-07
+1, Nurturing Peatland, MH1, NearMint, 9.02, Normal, English, 2022-04-07
+1, Oath of Gideon, OGW, NearMint, 0.3, Normal, English, 2022-04-08
+1, Obliterate, INV, NearMint, 5.39, Normal, Italian, 2022-04-04
+1, Oblivion Ring, LRW, NearMint, 0.26, Normal, English, 2022-04-04
+1, Oblivion Stone, CM2, NearMint, 3.04, Normal, English, 2022-04-05
+1, Ojutai, Soul of Winter, C17, NearMint, 0.32, Normal, English, 2022-04-08
+1, Oketra the True, AKH, NearMint, 3.45, Normal, English, 2022-04-07
+1, On Thin Ice, MH1, NearMint, 1.9, Normal, English, 2022-04-07
+1, Once Upon a Time, PELD, NearMint, 1.85, Normal, English, 2022-04-07
+1, Oppression, 7ED, NearMint, 20.65, Normal, Japanese, 2022-04-07
+1, Oracle's Vault, PAKH, NearMint, 0.51, Foil, English, 2022-04-08
+1, Otherworldly Gaze, DBL, NearMint, 0.86, Normal, English, 2022-04-07
+1, Ovalchase Daredevil, 2XM, NearMint, 0.25, Normal, English, 2022-04-09
+1, Overburden, PCY, NearMint, 12.76, Normal, Japanese, 2022-04-07
+1, Overgrown Tomb, RTR, NearMint, 12.57, Normal, English, 2022-04-07
+1, Oversold Cemetery, ONS, NearMint, 52.56, Foil, English, 2022-04-07
+1, Ox of Agonas, PL21, NearMint, 21.99, Foil, English, 2022-04-07
+1, Ox of Agonas, PTHB, NearMint, 5.06, Foil, English, 2022-04-07
+1, Padeem, Consul of Innovation, KLD, NearMint, 5.31, Normal, English, 2022-04-07
+1, Palace Sentinels, CN2, NearMint, 0.1, Normal, English, 2022-04-08
+1, Palisade Giant, RTR, NearMint, 0.45, Foil, English, 2022-04-08
+1, Panharmonicon, KLD, NearMint, 9.51, Normal, English, 2022-04-05
+1, Panharmonicon, PKLD, NearMint, 13.34, Foil, English, 2022-04-07
+1, Paradise Mantle, 5DN, NearMint, 7.13, Normal, English, 2022-04-07
+1, Paradox Haze, TSP, NearMint, 24.8, Foil, Italian, 2022-04-04
+1, Paupers' Cage, MIR, NearMint, 1.61, Normal, French, 2022-04-07
+1, Peat Bog, MMQ, NearMint, 0.72, Normal, English, 2022-04-07
+1, Pemmin's Aura, SCG, NearMint, 10.47, Normal, French, 2022-04-09
+1, Pendant of Prosperity, C21, NearMint, 0.2, Normal, English, 2022-04-04
+1, Pernicious Deed, A25, NearMint, 6.64, Normal, English, 2022-04-07
+1, Perplexing Chimera, BNG, LightPlayed, 0.69, Normal, Italian, 2022-04-04
+1, Pestilence Demon, DDR, NearMint, 0.64, Normal, English, 2022-04-06
+1, Phyrexian Arena, APC, NearMint, 20.06, Normal, Italian, 2022-04-07
+1, Phyrexian Purge, MIR, Good, 4.78, Normal, English, 2022-04-04
+1, Phyrexian Revoker, 2XM, NearMint, 1.13, Normal, English, 2022-04-07
+1, Phyrexian Revoker, MBS, NearMint, 1.2, Normal, French, 2022-04-05
+1, Pia Nalaar, C21, NearMint, 0.05, Normal, English, 2022-04-07
+1, Pithing Needle, 10E, NearMint, 5.86, Normal, French, 2022-04-04
+1, Pithing Needle, RTR, NearMint, 1.17, Normal, English, 2022-04-05
+1, Plague Engineer, MH1, NearMint, 1.87, Normal, English, 2022-04-07
+1, Polis Crusher, THS, NearMint, 0.11, Normal, English, 2022-04-08
+1, Polluted Delta, KTK, NearMint, 45.68, Normal, English, 2022-04-07
+1, Polluted Mire, C14, NearMint, 0.23, Normal, English, 2022-04-07
+1, Ponder, LRW, NearMint, 2.46, Normal, French, 2022-04-07
+1, Pondering Mage, MH1, NearMint, 0.3, Foil, English, 2022-04-09
+1, Pongify, 2XM, NearMint, 2.52, Normal, French, 2022-04-04
+1, Power Sink, ICE, NearMint, 0.22, Normal, English, 2022-04-09
+1, Pox, ICE, NearMint, 7.91, Normal, English, 2022-04-06
+1, Predatory Rampage, M13, NearMint, 0.24, Normal, French, 2022-04-05
+1, Primeval Titan, IMA, NearMint, 5.0, Normal, Simplified Chinese, 2022-04-07
+1, Prismatic Lens, UMA, Good, 0.51, Normal, English, 2022-04-04
+1, Prized Amalgam, TSR, NearMint, 1.26, Normal, English, 2022-04-07
+1, Proclamation of Rebirth, FMB1, NearMint, 0.36, Foil, English, 2022-04-08
+1, Prohibit, MH1, NearMint, 0.04, Normal, English, 2022-04-09
+1, Propaganda, TMP, Good, 5.28, Normal, English, 2022-04-04
+1, Psychosis Crawler, C18, NearMint, 0.61, Normal, Italian, 2022-04-04
+1, Puca's Mischief, SHM, NearMint, 2.51, Normal, English, 2022-04-04
+1, Pull from Tomorrow, AKH, NearMint, 2.45, Normal, English, 2022-04-07
+1, Pulse of Murasa, BBD, NearMint, 0.11, Normal, English, 2022-04-08
+1, Putrefaction, MMQ, NearMint, 0.24, Normal, Italian, 2022-04-07
+1, Putrefy, DDJ, NearMint, 0.22, Normal, English, 2022-04-07
+1, Putrid Goblin, MH1, NearMint, 0.14, Normal, English, 2022-04-08
+1, Pyrite Spellbomb, DDU, NearMint, 0.19, Normal, English, 2022-04-10
+1, Pyroblast, EMA, NearMint, 4.25, Normal, English, 2022-04-08
+1, Pyromancer's Swath, FUT, NearMint, 0.58, Normal, English, 2022-04-04
+1, Pyromania, TOR, NearMint, 0.68, Foil, English, 2022-04-09
+1, Quest for the Nihil Stone, WWK, NearMint, 3.16, Normal, Japanese, 2022-04-07
+1, Radiant Fountain, IMA, NearMint, 0.22, Normal, English, 2022-04-08
+1, Radiant Purge, DTK, NearMint, 0.15, Normal, English, 2022-04-06
+1, Rags // Riches, AKH, NearMint, 0.24, Normal, English, 2022-04-08
+1, Raise Dead, 8ED, NearMint, 0.23, Foil, English, 2022-04-09
+1, Raise the Alarm, CMR, NearMint, 0.01, Normal, English, 2022-04-07
+1, Rakdos Carnarium, DIS, NearMint, 0.24, Normal, English, 2022-04-07
+1, Rakdos Pit Dragon, DIS, NearMint, 0.42, Normal, English, 2022-04-06
+1, Rampant Growth, 7ED, NearMint, 0.58, Normal, English, 2022-04-07
+1, Ramunap Excavator, PHOU, NearMint, 4.21, Foil, English, 2022-04-07
+1, Ranger-Captain of Eos, MH1, NearMint, 31.52, Normal, English, 2022-04-07
+1, Raven's Crime, MMA, NearMint, 0.64, Normal, English, 2022-04-07
+1, Read the Bones, TSR, NearMint, 2.59, Normal, English, 2022-04-09
+1, Reality Twist, ICE, LightPlayed, 3.22, Normal, Italian, 2022-04-04
+1, Reanimate, UMA, NearMint, 18.85, Foil, English, 2022-04-06
+1, Rebuild, MH1, NearMint, 0.14, Normal, English, 2022-04-07
+1, Reckless Charge, MH1, NearMint, 0.05, Normal, English, 2022-04-09
+1, Reckless Fireweaver, KLD, NearMint, 8.47, Foil, English, 2022-04-09
+1, Reforge the Soul, C16, NearMint, 10.1, Normal, English, 2022-04-06
+1, Regal Caracal, AKH, NearMint, 0.66, Normal, English, 2022-04-07
+1, Regeneration, FWB, NearMint, 0.0, Normal, English, 2022-04-07
+1, Regrowth, DDL, NearMint, 0.51, Normal, English, 2022-04-07
+1, Reliquary Tower, C14, NearMint, 4.26, Normal, Japanese, 2022-04-04
+1, Remorseless Punishment, OGW, NearMint, 0.17, Normal, English, 2022-04-08
+1, Remorseless Punishment, POGW, NearMint, 0.52, Foil, English, 2022-04-08
+1, Reparations, MIR, LightPlayed, 4.39, Normal, Italian, 2022-04-04
+1, Repeal, IMA, NearMint, 0.11, Normal, English, 2022-04-09
+1, Restless Bones, GPT, NearMint, 0.28, Foil, French, 2022-04-09
+1, Restore, CMA, NearMint, 0.3, Normal, English, 2022-04-07
+1, Retraction Helix, BNG, NearMint, 0.06, Normal, English, 2022-04-09
+1, Revel in Riches, XLN, NearMint, 15.91, Foil, English, 2022-04-08
+1, Reverberate, M13, NearMint, 3.47, Normal, English, 2022-04-06
+1, Rhox Faithmender, M13, NearMint, 3.93, Normal, French, 2022-04-06
+1, Riddlekeeper, CMD, NearMint, 4.34, Normal, English, 2022-04-06
+1, Rise from the Grave, CM2, NearMint, 0.07, Normal, English, 2022-04-09
+1, Rogue Skycaptain, ALL, Good, 1.21, Normal, French, 2022-04-04
+1, Role Reversal, PWAR, NearMint, 0.0, Normal, Simplified Chinese, 2022-04-04
+1, Rootbound Crag, M10, NearMint, 4.64, Normal, French, 2022-04-07
+1, Rotlung Reanimator, ONS, NearMint, 5.44, Normal, English, 2022-04-08
+1, Rule of Law, MRD, NearMint, 1.09, Normal, English, 2022-04-04
+1, S.N.O.T., UNH, NearMint, 0.26, Normal, English, 2022-04-07
+1, Saheeli's Artistry, C18, NearMint, 0.22, Normal, English, 2022-04-08
+1, Salt Marsh, 8ED, NearMint, 2.75, Foil, English, 2022-04-07
+1, Samite Elder, PLS, NearMint, 0.46, Normal, English, 2022-04-06
+1, Samurai of the Pale Curtain, CHK, NearMint, 3.02, Normal, English, 2022-04-07
+1, Sandsteppe Citadel, C20, NearMint, 0.72, Normal, English, 2022-04-07
+1, Satyr Wayfinder, C15, NearMint, 0.11, Normal, English, 2022-04-08
+1, Savage Swipe, MH1, NearMint, 0.1, Normal, English, 2022-04-07
+1, Scheming Symmetry, PM20, NearMint, 10.48, Foil, Italian, 2022-04-07
+1, Scrapper Champion, AER, NearMint, 0.19, Foil, English, 2022-04-09
+1, Scroll of the Masters, FRF, NearMint, 0.2, Normal, French, 2022-04-05
+1, Scythe Specter, CM2, NearMint, 2.41, Normal, English, 2022-04-08
+1, Search for Tomorrow, MB1, NearMint, 0.38, Normal, English, 2022-04-07
+1, Seasoned Pyromancer, MH1, NearMint, 46.5, Normal, English, 2022-04-06
+1, Seasons Past, SOI, NearMint, 2.59, Normal, English, 2022-04-07
+1, Seat of the Synod, MRD, NearMint, 4.27, Normal, English, 2022-04-07
+1, Seat of the Synod, WC04, NearMint, 2.48, Normal, English, 2022-04-07
+1, Secluded Steppe, DDC, NearMint, 0.1, Normal, English, 2022-04-08
+1, Secluded Steppe, MH1, Excellent, 0.09, Normal, English, 2022-04-04
+1, Secluded Steppe, WC04, NearMint, 0.2, Normal, English, 2022-04-08
+1, Secret Salvage, AER, NearMint, 0.23, Normal, English, 2022-04-08
+1, Seer's Sundial, WWK, NearMint, 0.23, Normal, English, 2022-04-05
+1, Selesnya Sagittars, RAV, NearMint, 0.45, Foil, English, 2022-04-07
+1, Sensei's Divining Top, CHK, Excellent, 68.67, Normal, French, 2022-04-04
+1, Serra Angel, IMA, NearMint, 0.12, Normal, English, 2022-04-07
+1, Serra Avatar, M13, NearMint, 0.56, Normal, French, 2022-04-06
+1, Serra Avenger, M13, NearMint, 0.28, Normal, French, 2022-04-06
+1, Serra the Benevolent, MH1, NearMint, 9.82, Normal, English, 2022-04-06
+1, Setessan Champion, PTHB, NearMint, 3.4, Foil, English, 2022-04-07
+1, Sevinne's Reclamation, C19, NearMint, 8.96, Normal, English, 2022-04-04
+1, Sewer Nemesis, CM2, NearMint, 0.74, Normal, English, 2022-04-08
+1, Shadowblood Egg, ODY, NearMint, 0.2, Normal, English, 2022-04-10
+1, Shatter the Sky, PTHB, NearMint, 0.78, Foil, French, 2022-04-04
+1, Shauku, Endbringer, MIR, NearMint, 3.63, Normal, French, 2022-04-04
+1, Shenanigans, RMH1, NearMint, 0.41, Foil, English, 2022-04-08
+1, Shield Sphere, ALL, NearMint, 5.89, Normal, English, 2022-04-10
+1, Shimian Specter, M13, NearMint, 0.12, Normal, English, 2022-04-08
+1, Shrapnel Blast, MRD, NearMint, 0.29, Normal, French, 2022-04-09
+1, Shred Memory, RAV, NearMint, 0.38, Normal, English, 2022-04-07
+1, Sigil of Sleep, UDS, NearMint, 0.24, Normal, English, 2022-04-04
+1, Sign in Blood, CMD, NearMint, 0.31, Normal, English, 2022-04-09
+1, Silkwing Scout, DIS, NearMint, 0.58, Foil, English, 2022-04-09
+1, Silversmote Ghoul, M21, NearMint, 0.19, Normal, English, 2022-04-07
+1, Simic Growth Chamber, IMA, NearMint, 0.22, Normal, English, 2022-04-07
+1, Simic Signet, DIS, NearMint, 0.33, Normal, English, 2022-04-10
+1, Siren of the Silent Song, BNG, NearMint, 0.26, Normal, English, 2022-04-07
+1, Skarrg, the Rage Pits, GPT, NearMint, 1.73, Normal, English, 2022-04-07
+1, Skeleton Ship, ICE, Good, 5.43, Normal, English, 2022-04-04
+1, Skittering Monstrosity, TSP, NearMint, 0.0, Foil, French, 2022-04-09
+1, Skullbriar, the Walking Grave, CMD, NearMint, 5.41, Normal, English, 2022-04-07
+1, Skullcage, 5DN, NearMint, 0.21, Normal, English, 2022-04-07
+1, Skullclamp, DST, NearMint, 10.95, Normal, English, 2022-04-10
+1, Sky Hussar, DIS, NearMint, 0.2, Normal, English, 2022-04-07
+1, Skycloud Egg, ODY, NearMint, 0.23, Normal, English, 2022-04-10
+1, Skyship Stalker, KLD, NearMint, 0.14, Normal, English, 2022-04-08
+1, Slaughter the Strong, PRIX, Excellent, 0.0, Normal, English, 2022-04-04
+1, Sling-Gang Lieutenant, MH1, NearMint, 0.27, Normal, English, 2022-04-07
+1, Smallpox, DDR, NearMint, 0.33, Normal, English, 2022-04-09
+1, Smothering Tithe, RNA, NearMint, 45.5, Normal, Spanish, 2022-04-04
+1, Smuggler's Copter, KLD, NearMint, 1.55, Normal, English, 2022-04-07
+1, Sol Ring, C20, NearMint, 1.62, Normal, English, 2022-04-07
+1, Solar Blaze, PWAR, NearMint, 0.52, Foil, French, 2022-04-04
+1, Solemn Simulacrum, CM2, NearMint, 1.22, Normal, English, 2022-04-07
+1, Solemnity, HOU, NearMint, 2.93, Normal, Italian, 2022-04-04
+1, Soulherder, MH1, NearMint, 0.42, Normal, English, 2022-04-07
+1, Soulsworn Jury, DIS, NearMint, 2.56, Foil, English, 2022-04-07
+1, Spectral Guardian, MIR, Excellent, 2.29, Normal, French, 2022-04-04
+1, Spell Queller, EMN, NearMint, 2.45, Normal, Italian, 2022-04-04
+1, Sphere of Safety, RTR, NearMint, 4.41, Normal, Japanese, 2022-04-04
+1, Sphinx of Magosi, ROE, NearMint, 0.27, Normal, English, 2022-04-08
+1, Sphinx of Magosi, W17, NearMint, 0.09, Normal, English, 2022-04-08
+1, Spire of Industry, AER, NearMint, 1.41, Normal, English, 2022-04-05
+1, Spire of Industry, NEC, NearMint, 0.87, Normal, English, 2022-04-08
+1, Splendid Reclamation, PEMN, NearMint, 3.79, Normal, English, 2022-04-07
+1, Spore Frog, MH1, NearMint, 0.24, Normal, English, 2022-04-08
+1, Spore Frog, PCY, NearMint, 0.42, Normal, English, 2022-04-07
+1, Springleaf Drum, 2XM, NearMint, 2.66, Normal, English, 2022-04-10
+1, Squandered Resources, VIS, NearMint, 28.07, Normal, English, 2022-04-07
+1, Squirrel Mob, ODY, NearMint, 7.23, Normal, English, 2022-04-07
+1, Squirrel Nest, MH1, NearMint, 0.44, Normal, English, 2022-04-07
+1, Squirrel Token, TMH1, NearMint, 0.34, Foil, English, 2022-04-07
+1, Sram, Senior Edificer, AER, NearMint, 0.27, Normal, English, 2022-04-07
+1, Standard Bearer, APC, NearMint, 0.43, Normal, English, 2022-04-08
+1, Star Compass, IMA, NearMint, 1.17, Normal, English, 2022-04-07
+1, Statecraft, MMQ, NearMint, 3.49, Normal, French, 2022-04-04
+1, Steam Vents, RTR, NearMint, 15.22, Normal, English, 2022-04-04
+1, Steel Golem, WTH, Good, 0.65, Normal, French, 2022-04-04
+1, Steel Overseer, DDF, NearMint, 1.26, Normal, English, 2022-04-08
+1, Stensia Bloodhall, ISD, NearMint, 0.24, Normal, English, 2022-04-05
+1, Stitch Together, CMD, NearMint, 3.06, Normal, English, 2022-04-09
+1, Stomping Ground, GTC, NearMint, 9.43, Normal, English, 2022-04-05
+1, Stone Haven Outfitter, POGW, NearMint, 0.76, Foil, English, 2022-04-08
+1, Storage Matrix, 9ED, NearMint, 3.73, Normal, Italian, 2022-04-04
+1, Storm Cauldron, ALL, NearMint, 3.19, Normal, English, 2022-04-07
+1, Storm's Wrath, PTHB, NearMint, 0.83, Foil, French, 2022-04-04
+1, Stormtide Leviathan, M13, NearMint, 0.26, Normal, English, 2022-04-06
+1, Street Wraith, FUT, NearMint, 4.67, Normal, English, 2022-04-07
+1, Street Wraith, MMA, NearMint, 1.87, Normal, English, 2022-04-07
+1, Stuffy Doll, TSP, NearMint, 3.61, Normal, English, 2022-04-08
+1, Stuffy Doll, TSR, Excellent, 2.07, Normal, French, 2022-04-04
+1, Sudden Substitution, C19, NearMint, 0.58, Normal, English, 2022-04-04
+1, Sulfurous Blast, CN2, NearMint, 0.1, Normal, English, 2022-04-09
+1, Summer Bloom, VIS, NearMint, 2.21, Normal, English, 2022-04-07
+1, Sunbaked Canyon, MH1, Excellent, 18.36, Normal, English, 2022-04-04
+1, Sunbeam Spellbomb, MRD, NearMint, 0.13, Normal, English, 2022-04-09
+1, Sunder, USG, NearMint, 9.68, Normal, English, 2022-04-07
+1, Sunforger, RAV, NearMint, 0.7, Normal, Italian, 2022-04-04
+1, Sunken Hollow, C19, NearMint, 1.13, Normal, English, 2022-04-07
+1, Sunken Hope, 10E, NearMint, 0.21, Normal, English, 2022-04-06
+1, Sunken Ruins, 2XM, NearMint, 17.67, Normal, English, 2022-04-07
+1, Sunscorched Desert, AKH, NearMint, 5.63, Foil, English, 2022-04-07
+1, Suppression Field, RAV, NearMint, 1.82, Normal, English, 2022-04-07
+1, Swamp, MRD, NearMint, 0.85, Foil, English, 2022-04-07
+1, Swamp, UST, NearMint, 3.41, Normal, English, 2022-04-07
+1, Swans of Bryn Argoll, SHM, NearMint, 1.07, Normal, English, 2022-04-06
+1, Swords to Plowshares, 4ED, Excellent, 2.94, Normal, English, 2022-04-04
+1, Sylvan Scrying, TSR, NearMint, 1.88, Normal, English, 2022-04-07
+1, Szadek, Lord of Secrets, CMD, NearMint, 0.37, Normal, English, 2022-04-08
+1, Tainted Aether, 7ED, NearMint, 9.92, Normal, Japanese, 2022-04-07
+1, Talisman of Curiosity, RMH1, NearMint, 1.52, Foil, English, 2022-04-10
+1, Talisman of Dominance, MRD, NearMint, 5.3, Normal, Italian, 2022-04-07
+1, Tangle Wire, NEM, LightPlayed, 16.51, Normal, English, 2022-04-07
+1, Taniwha, MIR, LightPlayed, 1.72, Normal, French, 2022-04-04
+1, Teferi's Ageless Insight, PM21, NearMint, 3.23, Foil, French, 2022-04-04
+1, Teferi's Puzzle Box, 7ED, NearMint, 6.41, Normal, English, 2022-04-07
+1, Teferi's Realm, VIS, NearMint, 4.88, Normal, Italian, 2022-04-04
+1, Teferi, Time Raveler, WAR, NearMint, 15.91, Normal, Japanese, 2022-04-04
+1, Telling Time, MM2, NearMint, 0.22, Normal, English, 2022-04-09
+1, Tempered Steel, 2XM, NearMint, 3.26, Normal, English, 2022-04-08
+1, Temple of Enlightenment, PTHB, NearMint, 0.44, Normal, French, 2022-04-04
+1, Temple of the False God, SCG, NearMint, 1.04, Normal, English, 2022-04-07
+1, Terminate, PLS, NearMint, 1.28, Normal, English, 2022-04-07
+1, Terramorphic Expanse, DDN, NearMint, 0.25, Normal, English, 2022-04-07
+1, Territorial Gorger, PKLD, NearMint, 0.0, Normal, English, 2022-04-08
+1, Tezzeret, Agent of Bolas, MBS, NearMint, 11.48, Normal, English, 2022-04-07
+1, Thada Adel, Acquisitor, WWK, NearMint, 6.59, Normal, Japanese, 2022-04-04
+1, The Elderspell, PWAR, NearMint, 0.93, Normal, French, 2022-04-07
+1, The Gitrog Monster, SOI, NearMint, 4.31, Normal, English, 2022-04-07
+1, The Grand Calcutron, UST, NearMint, 0.76, Normal, English, 2022-04-04
+1, The Haunt of Hightower, RNA, NearMint, 7.28, Foil, English, 2022-04-08
+1, The Mimeoplasm, CM1, NearMint, 5.54, Foil, English, 2022-04-07
+1, The Rack, ATQ, NearMint, 33.57, Normal, English, 2022-04-07
+1, The Scarab God, HOU, NearMint, 36.66, Normal, Spanish, 2022-04-07
+1, Thopter Foundry, 2XM, NearMint, 0.35, Foil, French, 2022-04-07
+1, Thoughtseize, THS, NearMint, 15.05, Normal, English, 2022-04-08
+1, Thraben Inspector, MB1, NearMint, 0.32, Normal, English, 2022-04-08
+1, Thraben Inspector, SOI, NearMint, 0.2, Normal, English, 2022-04-08
+1, Thran Dynamo, UDS, NearMint, 5.65, Normal, Italian, 2022-04-07
+1, Three Visits, CMR, NearMint, 3.57, Normal, English, 2022-04-07
+1, Throatseeker, MH1, NearMint, 0.22, Normal, English, 2022-04-09
+1, Thunderous Wrath, AVR, NearMint, 0.12, Normal, English, 2022-04-09
+1, Time Stop, 10E, NearMint, 5.39, Normal, English, 2022-04-08
+1, Tireless Tracker, PLIST, NearMint, 0.0, Normal, English, 2022-04-07
+1, Tomb of Urami, SOK, NearMint, 0.88, Normal, English, 2022-04-08
+1, Toolcraft Exemplar, KLD, NearMint, 0.17, Normal, English, 2022-04-08
+1, Tormod's Crypt, DRK, Played, 11.15, Normal, English, 2022-04-04
+1, Tormod's Crypt, DRKI, NearMint, 0.0, Normal, English, 2022-04-08
+1, Tormod's Crypt, MB1, NearMint, 0.57, Normal, English, 2022-04-10
+1, Tormod's Crypt, TSB, NearMint, 4.61, Normal, English, 2022-04-10
+1, Torpor Orb, NPH, NearMint, 18.93, Normal, Italian, 2022-04-07
+1, Toxic Deluge, EMA, NearMint, 21.47, Normal, Japanese, 2022-04-07
+1, Toy Boat, UNH, NearMint, 0.26, Normal, English, 2022-04-10
+1, Tragic Arrogance, ORI, NearMint, 0.68, Normal, Italian, 2022-04-04
+1, Tragic Slip, C14, NearMint, 0.33, Normal, English, 2022-04-09
+1, Tranquil Thicket, C21, NearMint, 0.16, Normal, English, 2022-04-07
+1, Transmogrifying Wand, M19, NearMint, 0.25, Normal, Italian, 2022-04-04
+1, Treasure Token, TMH2, NearMint, 0.06, Normal, English, 2022-04-04
+1, Tribal Flames, INV, NearMint, 0.22, Normal, English, 2022-04-09
+1, Troll Ascetic, CM2, NearMint, 0.42, Normal, English, 2022-04-05
+1, Trophy Mage, DDU, NearMint, 0.5, Normal, English, 2022-04-09
+1, Trygon Predator, C21, NearMint, 0.1, Normal, Italian, 2022-04-07
+1, Twilight Mire, A25, NearMint, 11.33, Normal, English, 2022-04-07
+1, Ugin's Conjurant, WAR, NearMint, 0.12, Normal, English, 2022-04-10
+1, Ugin, the Ineffable, WAR, NearMint, 3.83, Normal, English, 2022-04-07
+1, Underground River, 9ED, NearMint, 10.5, Normal, Italian, 2022-04-07
+1, Unwind, DOM, NearMint, 0.35, Normal, English, 2022-04-04
+1, Upheaval, ODY, NearMint, 2.41, Normal, French, 2022-04-07
+1, Urborg, Tomb of Yawgmoth, PLC, NearMint, 36.68, Normal, English, 2022-04-07
+1, Urza's Guilt, PLS, NearMint, 9.0, Foil, Japanese, 2022-04-07
+1, Utter End, C21, NearMint, 0.3, Normal, English, 2022-04-08
+1, Varolz, the Scar-Striped, DGM, NearMint, 0.43, Normal, English, 2022-04-08
+1, Vedalken Plotter, GPT, NearMint, 5.02, Foil, Italian, 2022-04-04
+1, Verdant Catacombs, MM3, NearMint, 19.4, Normal, English, 2022-04-07
+1, Veteran Warleader, DDP, NearMint, 0.12, Normal, English, 2022-04-08
+1, Viashino Fangtail, RAV, NearMint, 0.42, Foil, French, 2022-04-09
+1, Victory's Herald, CM2, NearMint, 0.26, Normal, English, 2022-04-08
+1, Virulent Sliver, FUT, NearMint, 0.26, Normal, English, 2022-04-07
+1, Vision Skeins, DIS, Good, 19.92, Foil, French, 2022-04-09
+1, Vizier of Many Faces, AKH, NearMint, 0.75, Normal, English, 2022-04-06
+1, Volatile Rig, RTR, NearMint, 0.16, Normal, French, 2022-04-05
+1, Vorosh, the Hunter, CM2, NearMint, 1.04, Foil, English, 2022-04-05
+1, Vulturous Zombie, CM2, NearMint, 0.25, Normal, English, 2022-04-08
+1, Vulturous Zombie, RAV, NearMint, 0.39, Normal, English, 2022-04-06
+1, Warped Devotion, PLS, NearMint, 19.99, Foil, English, 2022-04-07
+1, Wash Out, INV, NearMint, 1.2, Normal, Italian, 2022-04-07
+1, Waste Not, M15, NearMint, 12.58, Normal, Italian, 2022-04-07
+1, Watery Grave, GRN, NearMint, 14.1, Normal, French, 2022-04-07
+1, Wayfarer's Bauble, 5DN, NearMint, 2.18, Normal, Italian, 2022-04-04
+1, Weather the Storm, RMH1, NearMint, 0.37, Foil, English, 2022-04-08
+1, Weatherseed Treefolk, ULG, Excellent, 4.52, Normal, French, 2022-04-04
+1, Wheel and Deal, ONS, NearMint, 12.16, Normal, Italian, 2022-04-07
+1, Wheel of Torture, ULG, NearMint, 2.75, Normal, English, 2022-04-07
+1, Whelming Wave, CMR, NearMint, 0.27, Normal, English, 2022-04-06
+1, Whiptail Moloch, DIS, NearMint, 0.19, Foil, English, 2022-04-09
+1, Whir of Invention, AER, NearMint, 2.93, Normal, English, 2022-04-07
+1, Whispering Madness, GTC, NearMint, 0.8, Normal, French, 2022-04-07
+1, Wild Mongrel, WC03, NearMint, 0.0, Normal, English, 2022-04-07
+1, Wind-Scarred Crag, M20, NearMint, 0.06, Normal, English, 2022-04-08
+1, Windfall, CMD, NearMint, 4.36, Normal, English, 2022-04-09
+1, Windfall, USG, NearMint, 5.38, Normal, Italian, 2022-04-07
+1, Windswept Heath, KTK, NearMint, 25.21, Normal, English, 2022-04-07
+1, Wing Shards, MH1, NearMint, 0.08, Normal, English, 2022-04-07
+1, Witch's Cottage, ELD, NearMint, 0.25, Normal, English, 2022-04-07
+1, Wonder, CMD, NearMint, 0.6, Normal, English, 2022-04-09
+1, Words of Wind, ONS, NearMint, 5.01, Normal, English, 2022-04-07
+1, World Shaper, PRIX, NearMint, 5.54, Normal, English, 2022-04-07
+1, Worldfire, M13, NearMint, 7.19, Normal, French, 2022-04-06
+1, Worldslayer, M12, NearMint, 1.75, Normal, English, 2022-04-05
+1, Worn Powerstone, CM2, NearMint, 2.27, Normal, English, 2022-04-07
+1, Wrath of God, 3ED, LightPlayed, 15.16, Normal, English, 2022-04-04
+1, Wrexial, the Risen Deep, CM2, NearMint, 10.06, Normal, English, 2022-04-08
+1, Wrong Turn, CMR, NearMint, 0.17, Normal, English, 2022-04-04
+1, Xathrid Gorgon, PM13, NearMint, 0.23, Foil, French, 2022-04-06
+1, Yavimaya Elder, MH2, NearMint, 0.04, Normal, English, 2022-04-07
+1, Yavimaya Enchantress, 8ED, NearMint, 0.7, Foil, English, 2022-04-07
+1, Zedruu the Greathearted, CMR, NearMint, 1.76, Foil, English, 2022-04-04
+1, Zur's Weirding, 8ED, NearMint, 11.64, Foil, English, 2022-04-04
+1, Zuran Orb, ICE, NearMint, 1.25, Normal, English, 2022-04-07
+1, Zurgo Helmsmasher, DDN, NearMint, 0.76, Foil, English, 2022-04-08
+13, Disenchant, A25, NearMint, 0.07, Normal, English, 2022-04-07
+2, Aetherstorm Roc, KLD, NearMint, 0.13, Foil, English, 2022-04-06
+2, Alchemist's Vial, MB1, NearMint, 0.19, Normal, English, 2022-04-08
+2, Ancient Den, WC04, NearMint, 1.47, Normal, English, 2022-04-08
+2, Annul, MRD, NearMint, 0.13, Normal, English, 2022-04-09
+2, Barren Moor, C15, NearMint, 0.25, Normal, English, 2022-04-07
+2, Battlefield Scrounger, JUD, NearMint, 0.16, Normal, English, 2022-04-07
+2, Borborygmos, GPT, NearMint, 0.32, Normal, French, 2022-04-05
+2, Boros Garrison, C20, NearMint, 0.11, Normal, English, 2022-04-07
+2, Boros Garrison, CM2, NearMint, 0.56, Normal, English, 2022-04-07
+2, Brainstorm, ICE, NearMint, 0.79, Normal, English, 2022-04-09
+2, Bridge from Below, MMA, NearMint, 1.75, Normal, English, 2022-04-07
+2, Bridge from Below, UMA, NearMint, 1.14, Normal, English, 2022-04-07
+2, Cabal Pit, ODY, NearMint, 0.9, Normal, English, 2022-04-07
+2, Cabal Therapy, EMA, NearMint, 0.75, Normal, English, 2022-04-07
+2, Cabal Therapy, PD3, NearMint, 1.16, Foil, English, 2022-04-07
+2, Cathartic Reunion, SS3, NearMint, 0.23, Normal, English, 2022-04-08
+2, Caustic Caterpillar, ORI, NearMint, 0.35, Normal, English, 2022-04-08
+2, Chromatic Sphere, INV, NearMint, 0.99, Normal, French, 2022-04-10
+2, Circle of Protection: Blue, ICE, NearMint, 0.07, Normal, English, 2022-04-08
+2, Circle of Protection: Green, PTC, NearMint, 0.0, Normal, English, 2022-04-08
+2, Circle of Protection: Red, ICE, NearMint, 0.11, Normal, English, 2022-04-08
+2, Circu, Dimir Lobotomist, RAV, NearMint, 2.38, Normal, French, 2022-04-06
+2, City of Brass, 5ED, NearMint, 18.82, Normal, English, 2022-04-07
+2, Conflagrate, TSP, NearMint, 0.28, Normal, English, 2022-04-07
+2, Contagion, ALL, NearMint, 0.31, Normal, English, 2022-04-08
+2, Copperline Gorge, SOM, NearMint, 7.14, Normal, English, 2022-04-05
+2, Cranial Plating, 5DN, NearMint, 0.54, Normal, English, 2022-04-08
+2, Crypt Rats, MH1, NearMint, 0.24, Normal, English, 2022-04-08
+2, Curator of Mysteries, AFC, NearMint, 0.18, Normal, English, 2022-04-08
+2, Curse of the Swine, KHC, NearMint, 0.52, Normal, English, 2022-04-06
+2, Dakmor Salvage, FUT, NearMint, 0.91, Normal, English, 2022-04-07
+2, Damping Sphere, DOM, NearMint, 1.59, Normal, English, 2022-04-08
+2, Darkblast, RAV, NearMint, 0.65, Normal, English, 2022-04-07
+2, Demonfire, DIS, NearMint, 0.76, Normal, English, 2022-04-08
+2, Depala, Pilot Exemplar, KLD, NearMint, 0.23, Normal, English, 2022-04-08
+2, Disciple of the Vault, MRD, NearMint, 0.73, Normal, French, 2022-04-09
+2, Disdainful Stroke, TSR, NearMint, 0.66, Normal, English, 2022-04-09
+2, Disrupting Shoal, BOK, NearMint, 1.12, Normal, English, 2022-04-07
+2, Door to Nothingness, M13, NearMint, 1.37, Normal, French, 2022-04-05
+2, Dragon Breath, ARC, NearMint, 0.3, Normal, English, 2022-04-08
+2, Dragon Breath, SCG, NearMint, 0.17, Normal, English, 2022-04-08
+2, Dryad Arbor, TSR, NearMint, 2.3, Normal, English, 2022-04-07
+2, Elephant Grass, VIS, NearMint, 2.46, Normal, English, 2022-04-07
+2, Elvish Guidance, ONS, NearMint, 0.58, Normal, English, 2022-04-07
+2, Encase in Ice, DTK, NearMint, 0.05, Normal, English, 2022-04-09
+2, Endling, MH1, NearMint, 0.2, Normal, English, 2022-04-08
+2, Enduring Renewal, ICE, NearMint, 3.41, Normal, English, 2022-04-07
+2, Ephemerate, MH1, NearMint, 0.74, Normal, English, 2022-04-08
+2, Etched Champion, SOM, NearMint, 3.53, Normal, English, 2022-04-08
+2, Ethersworn Canonist, ALA, NearMint, 7.66, Normal, French, 2022-04-06
+2, Exquisite Archangel, AER, NearMint, 2.42, Normal, English, 2022-04-06
+2, Fatal Push, 2XM, NearMint, 2.27, Normal, English, 2022-04-09
+2, Fiery Cannonade, XLN, NearMint, 0.13, Normal, English, 2022-04-08
+2, Fling, AKH, NearMint, 0.04, Normal, English, 2022-04-08
+2, Force of Vigor, MH1, NearMint, 35.99, Normal, English, 2022-04-08
+2, Gemstone Caverns, TSR, NearMint, 32.87, Normal, English, 2022-04-07
+2, Gemstone Mine, WTH, NearMint, 6.72, Normal, English, 2022-04-07
+2, Ghirapur Aether Grid, ORI, NearMint, 0.48, Normal, English, 2022-04-08
+2, Gingerbrute, ELD, NearMint, 3.92, Foil, English, 2022-04-08
+2, Glimpse the Unthinkable, GK1_DIMIR, NearMint, 7.55, Normal, English, 2022-04-07
+2, Glyph Keeper, AKH, NearMint, 0.12, Normal, English, 2022-04-08
+2, Golgari Thug, UMA, NearMint, 0.77, Normal, English, 2022-04-07
+2, Grafdigger's Cage, DKA, NearMint, 1.97, Normal, French, 2022-04-04
+2, Grapple with the Past, EMN, NearMint, 0.2, Normal, English, 2022-04-08
+2, Great Furnace, MB1, NearMint, 0.64, Normal, English, 2022-04-08
+2, Greater Sandwurm, AKH, NearMint, 0.04, Normal, English, 2022-04-07
+2, Gruul Turf, PCA, NearMint, 0.24, Normal, English, 2022-04-07
+2, Gurmag Angler, UMA, NearMint, 0.18, Normal, English, 2022-04-08
+2, Hall of Triumph, JOU, NearMint, 0.41, Normal, English, 2022-04-07
+2, Illness in the Ranks, GTC, NearMint, 0.1, Normal, English, 2022-04-09
+2, Infernal Genesis, PCY, NearMint, 8.97, Normal, English, 2022-04-06
+2, Invigorate, CMD, NearMint, 0.22, Normal, English, 2022-04-07
+2, Jeskai Infiltrator, PFRF, NearMint, 0.29, Foil, English, 2022-04-06
+2, Jungle Hollow, C18, NearMint, 0.1, Normal, English, 2022-04-08
+2, Lava Dart, MH1, NearMint, 0.15, Normal, English, 2022-04-08
+2, Lava Spike, CHK, NearMint, 3.27, Normal, English, 2022-04-09
+2, Life from the Loam, UMA, NearMint, 15.61, Normal, English, 2022-04-07
+2, Lightning Bolt, PF19, NearMint, 4.4, Normal, English, 2022-04-08
+2, Lonely Sandbar, CM2, NearMint, 0.21, Normal, English, 2022-04-07
+2, Lonely Sandbar, MH1, NearMint, 0.12, Normal, English, 2022-04-07
+2, Magmatic Sinkhole, MH1, NearMint, 0.03, Normal, English, 2022-04-08
+2, Man-o'-War, EMA, NearMint, 0.08, Normal, English, 2022-04-09
+2, Mana Confluence, CMR, NearMint, 32.34, Foil, English, 2022-04-07
+2, Mana Confluence, JOU, NearMint, 33.25, Normal, English, 2022-04-07
+2, Manriki-Gusari, SOK, NearMint, 2.44, Normal, French, 2022-04-09
+2, Marionette Master, AFC, NearMint, 0.27, Normal, English, 2022-04-08
+2, Martyr's Soul, MH1, NearMint, 0.01, Normal, English, 2022-04-07
+2, Memnite, FMB1, NearMint, 3.64, Normal, English, 2022-04-08
+2, Munda's Vanguard, OGW, NearMint, 0.1, Normal, English, 2022-04-08
+2, Muscle Sliver, H09, NearMint, 1.54, Foil, English, 2022-04-07
+2, Myriad Landscape, CMR, NearMint, 3.77, Normal, English, 2022-04-07
+2, Nature's Claim, WWK, NearMint, 1.05, Normal, English, 2022-04-07
+2, Nausea, EXO, NearMint, 0.16, Normal, English, 2022-04-08
+2, Negate, CN2, NearMint, 0.12, Normal, English, 2022-04-09
+2, Nether Shadow, FWB, NearMint, 0.0, Normal, English, 2022-04-07
+2, Never // Return, AKH, NearMint, 0.39, Normal, English, 2022-04-08
+2, Nihil Spellbomb, C17, NearMint, 0.52, Normal, English, 2022-04-10
+2, Opulent Palace, CM2, NearMint, 0.7, Normal, English, 2022-04-07
+2, Ornithopter, 10E, NearMint, 0.82, Normal, English, 2022-04-08
+2, Ornithopter, MRD, NearMint, 0.5, Normal, English, 2022-04-08
+2, Orzhov Basilica, C17, NearMint, 0.24, Normal, English, 2022-04-07
+2, Palace Sentinels, MB1, NearMint, 0.08, Normal, English, 2022-04-08
+2, Plains, PF19, NearMint, 1.08, Foil, English, 2022-04-04
+2, Prey Upon, AER, NearMint, 0.05, Normal, English, 2022-04-07
+2, Prismatic Strands, JUD, NearMint, 0.36, Normal, English, 2022-04-08
+2, Prized Amalgam, SOI, NearMint, 0.83, Normal, English, 2022-04-07
+2, Putrefy, RAV, NearMint, 0.25, Normal, English, 2022-04-07
+2, Rakdos Carnarium, IMA, NearMint, 0.22, Normal, English, 2022-04-07
+2, Rest in Peace, PLIST, NearMint, 7.4, Normal, English, 2022-04-08
+2, Rewind, MM3, NearMint, 0.27, Normal, English, 2022-04-09
+2, Seachrome Coast, SOM, NearMint, 20.85, Normal, English, 2022-04-08
+2, Searing Blood, BNG, NearMint, 0.23, Normal, English, 2022-04-09
+2, Seat of the Synod, DDU, NearMint, 4.44, Normal, English, 2022-04-07
+2, Seething Song, 9ED, NearMint, 1.02, Normal, English, 2022-04-09
+2, Selesnya Sanctuary, MIC, NearMint, 0.22, Normal, English, 2022-04-07
+2, Selesnya Sanctuary, MM2, NearMint, 0.22, Normal, English, 2022-04-07
+2, Serum Powder, IMA, NearMint, 0.65, Normal, English, 2022-04-05
+2, Shenanigans, MH1, NearMint, 0.14, Normal, English, 2022-04-08
+2, Shuko, BOK, NearMint, 1.26, Normal, French, 2022-04-10
+2, Solemn Recruit, PAER, NearMint, 0.75, Foil, English, 2022-04-08
+2, Spell Pierce, MM3, NearMint, 0.24, Normal, English, 2022-04-09
+2, Spire of Industry, AER, NearMint, 1.35, Normal, English, 2022-04-08
+2, Spreading Seas, ZEN, NearMint, 4.17, Normal, English, 2022-04-07
+2, Squirrel Nest, ODY, NearMint, 2.48, Normal, English, 2022-04-07
+2, Street Wraith, A25, NearMint, 1.93, Normal, English, 2022-04-07
+2, Stubborn Denial, KTK, NearMint, 1.07, Normal, English, 2022-04-08
+2, Sylvan Scrying, BFZ, NearMint, 0.25, Normal, English, 2022-04-07
+2, Syndicate Trafficker, KLD, NearMint, 0.1, Normal, English, 2022-04-08
+2, Temmet, Vizier of Naktamun, AKH, NearMint, 0.17, Normal, English, 2022-04-08
+2, Temur War Shaman, FRF, NearMint, 0.16, Normal, English, 2022-04-08
+2, Thorn of the Black Rose, CN2, NearMint, 0.26, Normal, English, 2022-04-08
+2, Thraben Inspector, TSR, NearMint, 1.43, Normal, English, 2022-04-08
+2, Trespasser's Curse, AKH, NearMint, 0.31, Normal, English, 2022-04-08
+2, Trinket Mage, 5DN, NearMint, 0.26, Normal, English, 2022-04-09
+2, Trygon Predator, C21, NearMint, 0.1, Normal, English, 2022-04-07
+2, Ultimate Price, DTK, NearMint, 0.08, Normal, English, 2022-04-09
+2, Unified Will, ROE, NearMint, 0.25, Normal, English, 2022-04-09
+2, Vault of Whispers, HOP, NearMint, 2.63, Normal, English, 2022-04-07
+2, Wayward Servant, AKH, NearMint, 0.2, Normal, English, 2022-04-07
+2, Whipflare, CM2, NearMint, 0.18, Normal, English, 2022-04-09
+2, Winding Way, MH1, NearMint, 0.23, Normal, English, 2022-04-08
+2, Wooded Foothills, KTK, NearMint, 36.0, Normal, English, 2022-04-07
+2, Words of Waste, ONS, NearMint, 8.64, Normal, English, 2022-04-07
+3, Alchemist's Vial, ORI, NearMint, 0.14, Normal, English, 2022-04-08
+3, Ancient Den, C21, NearMint, 1.04, Normal, English, 2022-04-08
+3, Arcbound Ravager, DST, NearMint, 15.49, Normal, English, 2022-04-08
+3, Blossoming Defense, KLD, NearMint, 0.42, Normal, English, 2022-04-07
+3, Boros Garrison, RAV, NearMint, 0.23, Normal, English, 2022-04-08
+3, Careful Study, ODY, NearMint, 1.68, Normal, English, 2022-04-09
+3, Cartouche of Strength, AKH, NearMint, 0.11, Normal, English, 2022-04-07
+3, Cast Out, C20, NearMint, 0.15, Normal, English, 2022-04-07
+3, Cathartic Reunion, 2XM, NearMint, 0.15, Normal, English, 2022-04-09
+3, Chancellor of the Annex, NPH, NearMint, 2.29, Normal, English, 2022-04-07
+3, Chromatic Sphere, JMP, NearMint, 0.75, Normal, English, 2022-04-10
+3, Commune with the Gods, MB1, NearMint, 0.16, Normal, English, 2022-04-08
+3, Darksteel Citadel, DDF, NearMint, 0.56, Normal, English, 2022-04-08
+3, Dramatic Reversal, KLD, NearMint, 0.6, Normal, English, 2022-04-09
+3, Duress, DTK, NearMint, 0.06, Normal, English, 2022-04-09
+3, Faerie Macabre, GVL, NearMint, 1.0, Normal, English, 2022-04-08
+3, Gurmag Angler, TSR, NearMint, 1.39, Normal, English, 2022-04-08
+3, Hallowed Fountain, RTR, NearMint, 9.85, Normal, English, 2022-04-08
+3, Hedron Crab, MB1, NearMint, 5.88, Normal, English, 2022-04-07
+3, Hengegate Pathway, KHM, NearMint, 16.78, Normal, English, 2022-04-07
+3, Hogaak, Arisen Necropolis, MH1, NearMint, 0.58, Normal, English, 2022-04-07
+3, Hooting Mandrills, KTK, NearMint, 0.06, Normal, English, 2022-04-08
+3, Ideas Unbound, SOK, NearMint, 0.79, Normal, English, 2022-04-09
+3, Insidious Will, KLD, NearMint, 0.51, Normal, English, 2022-04-08
+3, Insolent Neonate, MB1, NearMint, 0.33, Normal, English, 2022-04-09
+3, Kor Skyfisher, DDF, NearMint, 0.25, Normal, English, 2022-04-08
+3, Living Wish, JUD, NearMint, 4.12, Normal, French, 2022-04-05
+3, Merfolk Secretkeeper // Venture Deeper, ELD, NearMint, 0.19, Foil, English, 2022-04-09
+3, Mindbreak Trap, ZEN, NearMint, 21.91, Normal, English, 2022-04-07
+3, Mistgate Pathway, KHM, NearMint, 16.78, Normal, English, 2022-04-07
+3, Mogg Cannon, TMP, NearMint, 0.13, Normal, English, 2022-04-10
+3, Mox Opal, SOM, NearMint, 63.94, Normal, English, 2022-04-08
+3, Myr Enforcer, MRD, NearMint, 0.33, Normal, English, 2022-04-10
+3, Nimble Mongoose, ODY, NearMint, 0.27, Normal, English, 2022-04-07
+3, Once Upon a Time, ELD, NearMint, 0.92, Normal, Italian, 2022-04-08
+3, Otherworldly Gaze, MID, NearMint, 0.32, Normal, English, 2022-04-07
+3, Putrid Imp, PD3, NearMint, 0.86, Foil, English, 2022-04-08
+3, Radiant Fountain, C21, NearMint, 0.15, Normal, English, 2022-04-08
+3, Renewed Faith, AKH, NearMint, 0.08, Normal, English, 2022-04-07
+3, Satyr Wayfinder, C16, NearMint, 0.16, Normal, English, 2022-04-08
+3, Shrapnel Blast, MRD, NearMint, 0.29, Normal, English, 2022-04-09
+3, Silversmote Ghoul, C21, NearMint, 0.15, Normal, English, 2022-04-07
+3, Simic Growth Chamber, DIS, NearMint, 0.41, Normal, English, 2022-04-07
+3, Snow-Covered Forest, MH1, NearMint, 0.85, Normal, English, 2022-04-10
+3, Snow-Covered Mountain, MH1, NearMint, 0.66, Normal, English, 2022-04-10
+3, Snow-Covered Plains, MH1, NearMint, 0.61, Normal, English, 2022-04-10
+3, Snow-Covered Swamp, MH1, NearMint, 0.48, Normal, English, 2022-04-10
+3, Spirebluff Canal, KLD, NearMint, 15.91, Normal, English, 2022-04-07
+3, Steel Overseer, M20, NearMint, 0.83, Normal, English, 2022-04-08
+3, Tempered Steel, SOM, NearMint, 2.52, Normal, English, 2022-04-08
+3, Treasure Cruise, TSR, NearMint, 2.97, Normal, English, 2022-04-09
+3, Tribal Flames, INV, NearMint, 0.22, Normal, French, 2022-04-09
+3, Unearth, MH1, NearMint, 0.23, Normal, English, 2022-04-08
+3, Weather the Storm, MH1, NearMint, 0.24, Normal, English, 2022-04-08
+3, Welding Jar, WC04, NearMint, 0.41, Normal, English, 2022-04-08
+3, Wild Cantor, GPT, NearMint, 0.21, Normal, English, 2022-04-07
+3, Wind-Scarred Crag, C19, NearMint, 0.05, Normal, English, 2022-04-08
+3, Winged Sliver, TMP, NearMint, 0.64, Normal, English, 2022-04-09
+4, All That Glitters, ELD, NearMint, 4.59, Foil, English, 2022-04-08
+4, Approach of the Second Sun, AKH, NearMint, 1.15, Normal, English, 2022-04-06
+4, Balustrade Spy, GTC, NearMint, 0.11, Normal, English, 2022-04-07
+4, Basking Rootwalla, UMA, NearMint, 0.12, Normal, English, 2022-04-07
+4, Battle Screech, JUD, NearMint, 0.51, Normal, English, 2022-04-08
+4, Blast Zone, WAR, NearMint, 2.9, Normal, English, 2022-04-05
+4, Blinkmoth Nexus, DST, NearMint, 3.17, Normal, English, 2022-04-08
+4, Blood Fountain, VOW, NearMint, 0.31, Normal, English, 2022-04-08
+4, Bloodghast, ZEN, NearMint, 11.64, Normal, English, 2022-04-07
+4, Bolas's Citadel, WAR, NearMint, 6.71, Normal, English, 2022-04-06
+4, Boros Garrison, C21, NearMint, 0.09, Normal, English, 2022-04-07
+4, Cathar's Shield, EMN, NearMint, 0.2, Normal, English, 2022-04-09
+4, Creeping Chill, GRN, NearMint, 0.29, Normal, English, 2022-04-07
+4, Disenchant, IMA, NearMint, 0.05, Normal, English, 2022-04-08
+4, Dispatch, C21, NearMint, 0.6, Normal, English, 2022-04-08
+4, Dragon Fangs, SCG, NearMint, 0.15, Normal, English, 2022-04-08
+4, Dragon Shadow, SCG, NearMint, 0.22, Normal, English, 2022-04-08
+4, Dread Return, 2XM, NearMint, 0.48, Normal, English, 2022-04-07
+4, Duress, DTK, NearMint, 0.07, Normal, English, 2022-04-08
+4, Esper Sentinel, MH2, NearMint, 25.59, Normal, Simplified Chinese, 2022-04-08
+4, Evolving Wilds, AKH, NearMint, 0.1, Normal, English, 2022-04-07
+4, Experimental Synthesizer, NEO, NearMint, 0.63, Normal, English, 2022-04-08
+4, Flooded Strand, KTK, NearMint, 38.47, Normal, English, 2022-04-07
+4, Foundry Inspector, CMR, NearMint, 0.13, Normal, English, 2022-04-10
+4, Fragmentize, MB1, NearMint, 0.15, Normal, English, 2022-04-07
+4, Galvanic Blast, DDU, NearMint, 0.55, Normal, English, 2022-04-08
+4, Glass Casket, ELD, NearMint, 0.1, Normal, English, 2022-04-08
+4, Glint Hawk, SOM, NearMint, 0.24, Normal, English, 2022-04-08
+4, Gnaw to the Bone, ISD, NearMint, 0.2, Normal, English, 2022-04-08
+4, Golgari Grave-Troll, RAV, NearMint, 2.92, Normal, English, 2022-04-07
+4, Golgari Rot Farm, IMA, NearMint, 0.22, Normal, English, 2022-04-07
+4, Gravecrawler, DDQ, NearMint, 12.14, Normal, English, 2022-04-07
+4, Greater Sandwurm, IKO, NearMint, 0.01, Normal, English, 2022-04-08
+4, Grisly Salvage, F13, NearMint, 2.2, Foil, English, 2022-04-08
+4, Grixis Slavedriver, MM3, NearMint, 0.0, Foil, English, 2022-04-09
+4, Gut Shot, NPH, NearMint, 2.17, Normal, French, 2022-04-09
+4, Hollow One, HOU, NearMint, 1.02, Normal, English, 2022-04-04
+4, Ichorid, TOR, NearMint, 1.1, Normal, English, 2022-04-07
+4, Inkmoth Nexus, MBS, NearMint, 41.12, Normal, English, 2022-04-08
+4, Inspiring Vantage, KLD, NearMint, 7.61, Normal, English, 2022-04-07
+4, Journey to Nowhere, DDF, NearMint, 0.83, Normal, English, 2022-04-08
+4, Karn's Bastion, WAR, NearMint, 5.66, Normal, English, 2022-04-05
+4, Land Grant, MMQ, NearMint, 0.55, Normal, English, 2022-04-07
+4, Lightning Axe, TSP, NearMint, 0.22, Normal, English, 2022-04-07
+4, Makeshift Munitions, CMR, NearMint, 0.07, Normal, English, 2022-04-08
+4, Metallic Rebuke, MB1, NearMint, 0.19, Normal, English, 2022-04-08
+4, Mirrorshell Crab, NEO, NearMint, 0.03, Normal, English, 2022-04-08
+4, Narcomoeba, GRN, NearMint, 0.29, Normal, English, 2022-04-07
+4, Phantasmagorian, PLC, NearMint, 0.31, Normal, English, 2022-04-07
+4, Razortide Bridge, MH2, NearMint, 0.4, Normal, English, 2022-04-08
+4, Reckless Fireweaver, KLD, NearMint, 0.46, Normal, English, 2022-04-09
+4, Reckoner's Bargain, NEO, NearMint, 0.15, Normal, English, 2022-04-08
+4, Reverent Silence, NEM, NearMint, 0.2, Normal, English, 2022-04-08
+4, Serum Powder, IMA, NearMint, 0.67, Normal, English, 2022-04-04
+4, Shambling Shell, GK1_GOLGAR, NearMint, 0.25, Normal, English, 2022-04-07
+4, Shriekhorn, MBS, NearMint, 0.16, Normal, English, 2022-04-08
+4, Sickening Shoal, BOK, NearMint, 2.05, Normal, English, 2022-04-07
+4, Signal Pest, MBS, NearMint, 0.49, Normal, French, 2022-04-10
+4, Sojourner's Companion, MH2, NearMint, 0.14, Normal, English, 2022-04-08
+4, Sphinx of Foresight, RNA, NearMint, 1.14, Foil, English, 2022-04-07
+4, Springleaf Drum, LRW, NearMint, 3.11, Normal, English, 2022-04-08
+4, Stitcher's Supplier, PLIST, NearMint, 2.6, Normal, English, 2022-04-07
+4, Stoke the Flames, M15, NearMint, 0.21, Normal, English, 2022-04-09
+4, Tectonic Edge, F12, NearMint, 3.34, Foil, English, 2022-04-05
+4, Tezzeret, Agent of Bolas, MBS, NearMint, 11.48, Normal, French, 2022-04-05
+4, The Blackstaff of Waterdeep, AFR, NearMint, 0.58, Normal, English, 2022-04-08
+4, The Blackstaff of Waterdeep, PAFR, NearMint, 0.64, Normal, English, 2022-04-08
+4, Thoughtcast, MRD, NearMint, 1.52, Normal, English, 2022-04-09
+4, Thrilling Discovery, STX, NearMint, 0.16, Normal, English, 2022-04-07
+4, Vault Skirge, NPH, NearMint, 0.35, Normal, English, 2022-04-08
+4, Vengevine, UMA, NearMint, 11.11, Normal, English, 2022-04-07
+4, Vine Dryad, MMQ, NearMint, 0.56, Normal, English, 2022-04-07
+4, Whirlpool Rider, APC, NearMint, 0.19, Normal, English, 2022-04-09
+5, Arcbound Worker, MMA, NearMint, 0.27, Normal, English, 2022-04-10
+5, Cavern Harpy, PLS, NearMint, 0.28, Normal, English, 2022-04-07
+5, Frogmite, MB1, NearMint, 0.52, Normal, English, 2022-04-10
+5, Gearseeker Serpent, KLD, NearMint, 0.09, Normal, English, 2022-04-08
+5, Krark-Clan Shaman, MRD, NearMint, 0.4, Normal, English, 2022-04-09
+5, Raise the Alarm, DDF, NearMint, 0.05, Normal, English, 2022-04-07
+5, Snow-Covered Island, MH1, NearMint, 1.61, Normal, English, 2022-04-10
+5, Stinkweed Imp, RAV, NearMint, 0.61, Normal, English, 2022-04-09
+5, Tin Street Hooligan, GPT, NearMint, 0.1, Normal, English, 2022-04-09
+5, Urza's Saga, MH2, NearMint, 33.37, Normal, English, 2022-04-08
+5, Vault of Whispers, WC04, NearMint, 0.99, Normal, English, 2022-04-07
+5, Vizier of Remedies, AKH, NearMint, 0.23, Normal, English, 2022-04-07
+6, First-Sphere Gargantua, MH1, NearMint, 0.02, Normal, English, 2022-04-09
+7, Disfigure, A25, NearMint, 0.06, Normal, English, 2022-04-08
+8, Prophetic Prism, KLD, NearMint, 0.11, Normal, English, 2022-04-10
